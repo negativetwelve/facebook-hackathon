@@ -120,6 +120,8 @@ def make_timeword_dictionaries(chars_list):
         if char.code in reset_codes:
             if len(output) > 0 and char.code == 51: #backspace
                 output.pop(len(output) - 1)
+            else:
+                output.append(char.char)
             word = WordTime()
             word.set_fields(char)
             add_to_dictionaries(char.char, word)
