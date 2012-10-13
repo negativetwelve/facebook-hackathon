@@ -3,9 +3,6 @@
   <%= event.date %><br>
   <%= event.time %><br>
 <% end %>
-
-<div id="chart1" style="height:400px;width:640px; "></div>
-<div id="chart2" style="height:400px;width:640px; "></div>
 <div id="chart3" style="height:400px;width:640px; "></div>
 
 <script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
@@ -16,68 +13,14 @@
 <script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
 <script>
 $(document).ready(function(){
-  var plot1 = $.jqplot ('chart1', [[3,7,9,1,4,6,8,2,5]], {
-      // Give the plot a title.
-      title: 'Words Typed',
-      markerOptions: {style:'diamond'},
-      renderer: $.jqplot.LineRenderer,
-      rendererOption:{ highlightMouseOver :true},
-      axesDefaults: {
-        labelRenderer: $.jqplot.CanvasAxisLabelRenderer
-      },
-      
-      axes: {
-       
-        xaxis: {
-          label: "Time",
-          
-	  min: 0,
-	  max: 60,
-	  tickInterval: 5,
-          pad: 0
-        },
-        yaxis: {
-          label: "Number of Words"
-        }
-      }
-    }); 
- 
-    
-  var arr = [[110, 200, 5, "Acura"], [450, 90, 5, "Alfa Romeo"], 
-    [240, 500, 5, "AM General"], [500, 230, 5, "Aston Martin Lagonda"], 
-    [180, 170, 5, "Audi"], [70, 80, 5, "BMW"], [200, 130, 5, "Bugatti"]];
   
-  var plot2 = $.jqplot('chart2',[arr],{
-        
-	title: 'Mouse Clicks',
-        axesDefaults: {
-            labelRenderer: $.jqplot.CanvasAxisLabelRenderer
-        },
-
-	seriesDefaults:{
-            renderer: $.jqplot.BubbleRenderer,
-            rendererOptions: {
-                bubbleAlpha: 0.6,
-                highlightAlpha: 0.8,
-		autoscaleBubbles :false
-            },
-            shadow: true,
-            shadowAlpha: 0.05
-        },
-	axes:{
-	    yaxis:{min:0, max:800, tickInterval: 80, label: "Y-position"},
-	    xaxis:{min:0, max:1280, tickInterval:128, label: "X-position"}
-	}
-  });
- 
-
   var s1 = [200, 600, 700, 1000];
   // Can specify a custom tick Array.
   // Ticks should match up one for each y value (category) in the series.
   var ticks = ['May', 'June', 'July', 'August'];
      
   var plot3 = $.jqplot('chart3', [s1], {
-        title: 'Programs Running',
+        
         
 	seriesDefaults:{
             renderer:$.jqplot.BarRenderer,
