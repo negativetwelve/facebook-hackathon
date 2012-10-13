@@ -10,7 +10,7 @@ EMPTY_DATE = 'date n/a'
 
 reset_codes = {36: "\n", 48: "<TAB>", 51: "<BACK>"}
 
-class CharTime:    
+class CharTime:
 
     def __init__(self, index=EMPTY_INDEX):
         self.char = EMPTY_CHAR
@@ -18,14 +18,13 @@ class CharTime:
         self.date = EMPTY_DATE
         self.time = EMPTY_TIME
         self.index = index
-        
+
     def set_info(self, str):
         str = str.replace('" "', "~~~~~")
         words = str.split()
         for i, word in enumerate(words):
-            
             word = word.replace("~~~~~", '" "')
-            
+
             # set date and time
             if i == 0:
                 self.date = word
@@ -33,7 +32,7 @@ class CharTime:
             if i == 1:
                 self.time = word
                 continue
-                
+
             # set char and charcode
             word = word.replace('"="', "^^^^^")
             elements = word.split("=")
@@ -48,17 +47,16 @@ class CharTime:
             elif field == "keyCode":
                 self.code = int(info)
                 self.reset()
-                
+
     def reset(self):
         if self.code in reset_codes:
             self.char = reset_codes[self.code]
-        
+
     def __repr__(self):
         #return "CharTime(char={0}, code={1}, date={2}, time={3})".format(self.char, self.code, self.date, self.time)
         return "CT({0}, {1})".format(self.char, self.time)
-        
+
 class WordTime(CharTime):
-        
     def set_fields(self, char, word=None):
         if word:
             self.char = word
@@ -92,6 +90,7 @@ def parse():
     chars, chars_dict = make_char_list_dict(content)
     #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, time_dict, word_dict = make_timeword_dictionaries(chars)
+    return output_str, time_dict, word_dict
 
 def make_char_list_dict(content):  
     chars = []
@@ -143,4 +142,7 @@ def make_timeword_dictionaries(chars_list):
     return output_str, time_dict, word_dict
 
 if __name__ == '__main__':
-    parse()
+    output_str, time_dict, word_dict = parse()
+    # print word_dict.items()
+    for key, value in word_dict.items():
+        print value
