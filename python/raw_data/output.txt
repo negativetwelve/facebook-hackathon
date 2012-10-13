@@ -4011,3 +4011,2265 @@
 2012-10-13 11:25:08 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
 2012-10-13 11:25:09 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
 2012-10-13 11:25:09 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:25:09 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:25:09 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:25:09 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:25:09 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:25:10 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:25:10 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:25:10 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:25:10 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:25:10 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:25:13 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:25:14 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:25:14 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:25:14 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:25:17 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:25:18 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:25:18 Key | NSKeyDown | char="w" mods=[] key=13 is_repeat=False
+2012-10-13 11:25:18 Key | NSKeyDown | char="q" mods=[] key=12 is_repeat=False
+2012-10-13 11:25:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:25:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:25:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:25:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:25:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:25:20 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:25:20 Key | NSKeyDown | char="w" mods=[] key=13 is_repeat=False
+2012-10-13 11:25:20 Key | NSKeyDown | char="q" mods=[] key=12 is_repeat=False
+2012-10-13 11:25:20 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:25:21 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:25:22 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:25:22 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:25:22 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:25:33 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:25:35 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:25:35 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:29:08 Screen | NSKeyDown | name=_ h=83.0 y=-83.0 w=1280.0 owner=iTerm x=0.0
+2012-10-13 11:29:08 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:29:16 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:29:16 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:17 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:18 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:19 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:20 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:21 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:22 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:23 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:25 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:25 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:26 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:27 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:27 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:27 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:28 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:28 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:28 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:29 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:29 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:29 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:30 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:30 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:31 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:29:31 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:29:39 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:29:40 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:29:40 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:42 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:29:42 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:43 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:43 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:44 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:45 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:29:46 Mouse | NSLeftMouseDown | y=343.05078125 x=387.12109375
+2012-10-13 11:29:46 Mouse | NSLeftMouseDown | y=294.2265625 x=384.0546875
+2012-10-13 11:29:47 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:48 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:49 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:49 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:49 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:49 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:49 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:50 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:51 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:52 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:53 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:54 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=True
+2012-10-13 11:29:55 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:55 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:55 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:56 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:56 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:58 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:29:59 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:30:00 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:30:00 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:30:16 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:30:23 Mouse | NSLeftMouseDown | y=35.65234375 x=1255.984375
+2012-10-13 11:30:24 Mouse | NSLeftMouseDown | y=36.65234375 x=1238.74609375
+2012-10-13 11:30:25 Mouse | NSLeftMouseDown | y=27.56640625 x=1249.83203125
+2012-10-13 11:30:27 Mouse | NSLeftMouseDown | y=67.30078125 x=1222.76171875
+2012-10-13 11:30:30 Mouse | NSLeftMouseDown | y=421.15625 x=524.1015625
+2012-10-13 11:31:09 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:31:11 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:31:11 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:31:12 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:31:14 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:31:17 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:31:19 Mouse | NSLeftMouseDown | y=375.8359375 x=517.52734375
+2012-10-13 11:31:23 Mouse | NSLeftMouseDown | y=605.33984375 x=608.8984375
+2012-10-13 11:31:25 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:31:25 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:31:26 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:31:27 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:31:33 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:31:37 Mouse | NSLeftMouseDown | y=512.390625 x=118.71484375
+2012-10-13 11:31:38 Key | NSKeyDown | char="c" mods=['COMMAND'] key=8 is_repeat=False
+2012-10-13 11:31:38 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:31:40 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:31:40 Mouse | NSLeftMouseDown | y=499.359375 x=454.0078125
+2012-10-13 11:31:41 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:31:41 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:32:54 Mouse | NSLeftMouseDown | y=53.01953125 x=1172.8984375
+2012-10-13 11:33:02 Mouse | NSLeftMouseDown | y=195.15625 x=441.3671875
+2012-10-13 11:33:03 Mouse | NSLeftMouseDown | y=292.10546875 x=468.953125
+2012-10-13 11:33:04 Mouse | NSLeftMouseDown | y=365.53125 x=456.3515625
+2012-10-13 11:33:33 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:33:36 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:33:38 Mouse | NSLeftMouseDown | y=524.3046875 x=318.75390625
+2012-10-13 11:33:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:41 Mouse | NSLeftMouseDown | y=523.27734375 x=302.5234375
+2012-10-13 11:33:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:33:43 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:33:43 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:33:45 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:33:46 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:33:51 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:33:52 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:33:52 Mouse | NSLeftMouseDown | y=537.32421875 x=305.56640625
+2012-10-13 11:33:53 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:33:54 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:33:54 Key | NSKeyDown | char="3" mods=[] key=20 is_repeat=False
+2012-10-13 11:33:55 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:33:56 Mouse | NSLeftMouseDown | y=526.3828125 x=437.8046875
+2012-10-13 11:33:57 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:33:57 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:33:57 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:33:58 Key | NSKeyDown | char="3" mods=[] key=20 is_repeat=False
+2012-10-13 11:33:58 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:33:58 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:33:59 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:02 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:05 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:34:05 Mouse | NSLeftMouseDown | y=554.15625 x=438.90625
+2012-10-13 11:34:06 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:34:06 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:34:06 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:34:07 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:34:07 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:34:07 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:10 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:11 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:34:11 Mouse | NSLeftMouseDown | y=523.8671875 x=477.640625
+2012-10-13 11:34:12 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:34:12 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:34:12 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:34:12 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:34:13 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:34:13 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:15 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:17 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:34:17 Mouse | NSLeftMouseDown | y=533.63671875 x=334.59375
+2012-10-13 11:34:18 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:34:18 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:34:18 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:34:19 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:34:19 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:34:19 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:34:19 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:34:20 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:34:20 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:34:20 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:34:20 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:34:20 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:34:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:27 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:34:27 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:34:27 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:34:27 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:34:28 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:34:28 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:34:30 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:34:30 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:34:31 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:34:31 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:34:31 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:34:32 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:34:33 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:34:33 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:34:34 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:34:34 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:34:34 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:34:34 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:34:35 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:34:35 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:39 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:42 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:44 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:46 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:48 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:50 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:34:52 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:34:55 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:34:55 Mouse | NSLeftMouseDown | y=538.20703125 x=448.13671875
+2012-10-13 11:34:58 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:34:59 Mouse | NSLeftMouseDown | y=564.2421875 x=473.65625
+2012-10-13 11:35:01 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:35:01 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:35:01 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:35:01 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:35:01 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:35:02 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:35:02 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:35:03 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:35:03 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:35:03 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:35:03 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:35:04 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:35:04 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:35:04 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:35:05 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:35:07 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:35:09 Mouse | NSLeftMouseDown | y=210.3515625 x=581.69921875
+2012-10-13 11:35:09 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:35:09 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:35:09 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:35:10 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char="{" mods=[] key=33 is_repeat=False
+2012-10-13 11:35:11 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:35:12 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:35:13 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:35:13 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:35:15 Mouse | NSLeftMouseDown | y=302.66015625 x=334.96875
+2012-10-13 11:35:15 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:16 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:16 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:16 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:18 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:19 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:35:20 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:35:21 Mouse | NSLeftMouseDown | y=302.66015625 x=380.0234375
+2012-10-13 11:35:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:35:22 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 11:35:22 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:35:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:35:28 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:30 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:32 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:33 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:35:36 Screen | NSKeyDown | name=_ h=83.0 y=-83.0 w=1280.0 owner=iTerm x=0.0
+2012-10-13 11:35:36 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:35:37 Key | NSKeyDown | char="" mods=['CONTROL'] key=8 is_repeat=False
+2012-10-13 11:35:43 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:35:47 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:35:52 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:54 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:56 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:35:58 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:00 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:01 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:05 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:36:06 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:36:06 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:36:07 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:36:07 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:36:07 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:36:07 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:36:07 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:36:14 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:16 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:20 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:22 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:23 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:26 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:33 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:37 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:36:40 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:36:40 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:40 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:41 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:41 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:43 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:36:50 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:36:50 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:36:52 Mouse | NSLeftMouseDown | y=576.2421875 x=374.5859375
+2012-10-13 11:36:54 Mouse | NSLeftMouseDown | y=566.15625 x=374.54296875
+2012-10-13 11:36:54 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:36:55 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:36:55 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:36:56 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:36:58 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:36:59 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:37:01 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:37:04 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:37:06 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:37:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:37:31 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:37:31 Mouse | NSLeftMouseDown | y=555.90625 x=44.15625
+2012-10-13 11:37:34 Mouse | NSLeftMouseDown | y=289.87109375 x=119.39453125
+2012-10-13 11:38:01 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:38:05 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:14 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:16 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:18 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:20 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:23 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:26 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:28 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:30 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:37 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:38:40 Screen | NSLeftMouseDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:38:40 Mouse | NSLeftMouseDown | y=662.890625 x=213.2734375
+2012-10-13 11:38:41 Key | NSKeyDown | char="" mods=['COMMAND'] key=51 is_repeat=False
+2012-10-13 11:38:42 Screen | NSKeyDown | name=_ h=362.0 y=126.0 w=620.0 owner=Alfred x=330.0
+2012-10-13 11:38:42 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:38:42 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:38:42 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:38:43 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:38:43 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:38:53 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:55 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:57 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:38:59 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:39:01 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:39:03 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:39:04 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:39:06 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:39:06 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:39:41 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:39:41 Mouse | NSLeftMouseDown | y=585.1640625 x=44.625
+2012-10-13 11:39:42 Mouse | NSLeftMouseDown | y=585.1640625 x=44.625
+2012-10-13 11:39:51 Mouse | NSLeftMouseDown | y=579.96875 x=434.296875
+2012-10-13 11:39:53 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:39:55 Mouse | NSLeftMouseDown | y=581.94921875 x=466.140625
+2012-10-13 11:39:56 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:39:56 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:39:56 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:39:57 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:39:57 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:39:58 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:39:58 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:39:58 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:01 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:03 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:05 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:06 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:40:06 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:09 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:40:09 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:09 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:10 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:10 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:10 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:13 Mouse | NSLeftMouseDown | y=298.16015625 x=338.3203125
+2012-10-13 11:40:13 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:40:14 Mouse | NSLeftMouseDown | y=303.203125 x=300.86328125
+2012-10-13 11:40:15 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:40:15 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:40:15 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:40:15 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:40:15 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:40:16 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:40:16 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:16 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:40:16 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:17 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:20 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:22 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:40:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:26 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:40:26 Mouse | NSLeftMouseDown | y=296.9140625 x=318.95703125
+2012-10-13 11:40:26 Mouse | NSLeftMouseDown | y=296.9140625 x=318.95703125
+2012-10-13 11:40:27 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:40:28 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:40:29 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:32 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:34 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:35 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:37 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:38 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:40:39 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:40:40 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:40:41 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:40:41 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:40:47 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:40:53 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:40:53 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:54 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:54 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:55 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:40:59 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:41:11 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:13 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:17 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:41:17 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:41:17 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:41:18 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:41:18 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:41:19 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:41:20 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:41:20 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:41:20 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:41:21 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:41:21 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:41:21 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:41:21 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:41:22 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:41:22 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:41:22 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:41:22 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:41:22 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:41:23 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:41:25 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:27 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:45 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:48 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:49 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:51 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:41:53 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:41:54 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:41:54 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:41:58 Mouse | NSLeftMouseDown | y=573.85546875 x=477.46484375
+2012-10-13 11:42:02 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:42:04 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:42:04 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:42:04 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:42:04 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:42:04 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:42:05 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:42:05 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:42:05 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:42:05 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:42:05 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:42:06 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:42:06 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:42:10 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:42:16 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:42:16 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:42:18 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:42:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:42:42 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:42:42 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:42:49 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:43:04 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:43:04 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:43:04 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:43:04 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:43:05 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:43:05 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:43:06 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:43:06 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:43:06 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:43:06 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:43:07 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:43:10 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 11:43:12 Mouse | NSLeftMouseDown | y=639.1953125 x=303.6015625
+2012-10-13 11:43:12 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:43:12 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:43:14 Mouse | NSLeftMouseDown | y=690.55078125 x=176.2578125
+2012-10-13 11:43:20 Mouse | NSLeftMouseDown | y=458.3828125 x=1102.9921875
+2012-10-13 11:43:22 Mouse | NSLeftMouseDown | y=558.63671875 x=1021.8515625
+2012-10-13 11:43:25 Mouse | NSLeftMouseDown | y=564.7421875 x=1029.89453125
+2012-10-13 11:43:29 Mouse | NSLeftMouseDown | y=573.78515625 x=1033.69921875
+2012-10-13 11:43:33 Mouse | NSLeftMouseDown | y=566.90625 x=1063.79296875
+2012-10-13 11:43:36 Mouse | NSLeftMouseDown | y=570.6015625 x=1045.27734375
+2012-10-13 11:43:38 Mouse | NSLeftMouseDown | y=570.6015625 x=1045.27734375
+2012-10-13 11:43:38 Mouse | NSLeftMouseDown | y=570.6015625 x=1045.27734375
+2012-10-13 11:43:49 Mouse | NSRightMouseDown | y=461.3515625 x=844.88671875
+2012-10-13 11:43:50 Mouse | NSLeftMouseDown | y=445.70703125 x=861.89453125
+2012-10-13 11:43:52 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:43:53 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:43:54 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:43:56 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:43:56 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:43:58 Screen | NSKeyDown | name=stylesheets h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:43:58 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:43:59 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:00 Mouse | NSLeftMouseDown | y=728.4453125 x=28.453125
+2012-10-13 11:44:01 Mouse | NSLeftMouseDown | y=625.87890625 x=211.1328125
+2012-10-13 11:44:02 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:03 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:44:03 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:03 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:44:03 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 11:44:03 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:44:04 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:44:04 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:44:04 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:44:04 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:44:04 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:44:05 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:07 Mouse | NSLeftMouseDown | y=759.1796875 x=833.3359375
+2012-10-13 11:44:08 Mouse | NSLeftMouseDown | y=728.828125 x=28.5625
+2012-10-13 11:44:09 Mouse | NSLeftMouseDown | y=680.91796875 x=197.62109375
+2012-10-13 11:44:10 Mouse | NSLeftMouseDown | y=680.91796875 x=197.62109375
+2012-10-13 11:44:11 Mouse | NSLeftMouseDown | y=758.94921875 x=1121.7109375
+2012-10-13 11:44:12 Mouse | NSLeftMouseDown | y=626.66796875 x=219.01953125
+2012-10-13 11:44:14 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:44:18 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:44:18 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:18 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:19 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:20 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:20 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:22 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:44:27 Mouse | NSLeftMouseDown | y=742.71875 x=391.03515625
+2012-10-13 11:44:28 Mouse | NSLeftMouseDown | y=751.55078125 x=484.80859375
+2012-10-13 11:44:29 Mouse | NSLeftMouseDown | y=747.5078125 x=607.4453125
+2012-10-13 11:44:35 Mouse | NSLeftMouseDown | y=242.4296875 x=404.94921875
+2012-10-13 11:44:35 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:36 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:36 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 11:44:36 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:44:36 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:44:37 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:44:37 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:44:37 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:44:37 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:44:39 Key | NSKeyDown | char="{" mods=[] key=33 is_repeat=False
+2012-10-13 11:44:40 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:40 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:44:41 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:44:41 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:44:42 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:44:42 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:44:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:43 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:44:43 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:43 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:44:43 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 11:44:43 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:44:44 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:44:44 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:44:44 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:44:44 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:44:45 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:45 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:45 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:45 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:45 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:44:46 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:44:47 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:44:50 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:44:51 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:44:52 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:53 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:54 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:54 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:54 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:44:54 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:44:54 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:44:55 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:44:55 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:55 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:56 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:56 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:44:56 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:44:56 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:56 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:44:58 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:44:59 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:44:59 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:44:59 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:45:00 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:45:01 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 11:45:01 Key | NSKeyDown | char="j" mods=[] key=38 is_repeat=False
+2012-10-13 11:45:01 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:45:02 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:02 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:45:03 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:05 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:09 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:11 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:12 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:15 Mouse | NSLeftMouseDown | y=371.64453125 x=408.7265625
+2012-10-13 11:45:16 Mouse | NSLeftMouseDown | y=355.1875 x=474.78515625
+2012-10-13 11:45:24 Mouse | NSLeftMouseDown | y=500.4296875 x=418.34375
+2012-10-13 11:45:25 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:45:25 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:45:26 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:45:27 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:45:27 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:45:27 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:45:28 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:45:30 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:45:31 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:45:31 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:45:31 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:31 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:45:32 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:45:32 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:45:32 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:45:32 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:32 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:45:33 Mouse | NSLeftMouseDown | y=379.00390625 x=345.9140625
+2012-10-13 11:45:34 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:45:34 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:45:35 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:45:35 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:45:36 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:45:36 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:45:36 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:45:36 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:45:36 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:45:40 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:45:43 Mouse | NSLeftMouseDown | y=30.69140625 x=1257.61328125
+2012-10-13 11:45:44 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:45:44 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:45:44 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:45:44 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:45:44 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:45:45 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:45:46 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:45:46 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:45:46 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:45:46 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:45:46 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:45:49 Mouse | NSLeftMouseDown | y=508.1015625 x=426.91015625
+2012-10-13 11:45:50 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:45:51 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:45:51 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:51 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:51 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:52 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:52 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:52 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:54 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:45:56 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:00 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:46:00 Mouse | NSLeftMouseDown | y=239.43359375 x=411.33203125
+2012-10-13 11:46:01 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:46:02 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:46:02 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:46:02 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:05 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:46:05 Key | NSKeyDown | char="(" mods=[] key=25 is_repeat=False
+2012-10-13 11:46:06 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:46:07 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:46:09 Mouse | NSLeftMouseDown | y=243.56640625 x=434.828125
+2012-10-13 11:46:09 Key | NSKeyDown | char="'" mods=[] key=39 is_repeat=False
+2012-10-13 11:46:11 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:46:12 Mouse | NSLeftMouseDown | y=241.5 x=639.3359375
+2012-10-13 11:46:13 Key | NSKeyDown | char="'" mods=[] key=39 is_repeat=False
+2012-10-13 11:46:13 Key | NSKeyDown | char=")" mods=[] key=29 is_repeat=False
+2012-10-13 11:46:14 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:46:14 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:16 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:46:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:22 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:46:22 Mouse | NSLeftMouseDown | y=242.015625 x=442.5625
+2012-10-13 11:46:24 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 11:46:24 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 11:46:28 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:46:31 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:46:31 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:34 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:36 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:46:36 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:38 Screen | NSKeyDown | name=hackbox h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:46:38 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:38 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:41 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:42 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:46:42 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:46:49 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:49 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:50 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:51 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:46:51 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:01 Mouse | NSLeftMouseDown | y=512.60546875 x=433.1953125
+2012-10-13 11:47:01 Mouse | NSLeftMouseDown | y=512.60546875 x=433.1953125
+2012-10-13 11:47:03 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:47:06 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:47:06 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:47:06 Key | NSKeyDown | char="z" mods=['COMMAND'] key=6 is_repeat=False
+2012-10-13 11:47:09 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:47:09 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:47:10 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:47:10 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:47:11 Screen | NSKeyDown | name=images h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 11:47:11 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:47:16 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:47:28 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:47:28 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:28 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:28 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:28 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:29 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:31 Mouse | NSLeftMouseDown | y=244.390625 x=440.1796875
+2012-10-13 11:47:32 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:47:33 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:47:35 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:47:37 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:47:45 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:47:47 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:47:47 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:47 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:47 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:48 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:47:48 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:05 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:05 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:05 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:08 Mouse | NSLeftMouseDown | y=524.984375 x=387.9375
+2012-10-13 11:48:08 Mouse | NSLeftMouseDown | y=524.984375 x=387.9375
+2012-10-13 11:48:09 Mouse | NSLeftMouseDown | y=524.984375 x=387.9375
+2012-10-13 11:48:10 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:48:11 Mouse | NSLeftMouseDown | y=465.17578125 x=349.86328125
+2012-10-13 11:48:11 Mouse | NSLeftMouseDown | y=465.17578125 x=349.86328125
+2012-10-13 11:48:12 Mouse | NSLeftMouseDown | y=465.17578125 x=349.86328125
+2012-10-13 11:48:12 Mouse | NSLeftMouseDown | y=465.17578125 x=349.86328125
+2012-10-13 11:48:12 Mouse | NSLeftMouseDown | y=465.17578125 x=349.86328125
+2012-10-13 11:48:13 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:48:14 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:48:15 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:15 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:15 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:48:22 Mouse | NSLeftMouseDown | y=714.1796875 x=290.40234375
+2012-10-13 11:48:23 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:48:24 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:48:27 Mouse | NSLeftMouseDown | y=328.95703125 x=360.7265625
+2012-10-13 11:48:27 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:48:28 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:48:28 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:48:29 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:48:29 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:48:29 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:48:29 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:48:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:48:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:48:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:48:31 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:48:31 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:48:32 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:48:32 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:48:33 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:48:36 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:50:38 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:50:38 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:50:38 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:50:38 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:50:38 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:50:39 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:50:39 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:50:39 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:50:40 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:50:41 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:50:41 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:50:41 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:50:41 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:50:41 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:50:42 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:50:44 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 11:50:44 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:51:38 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:51:39 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:51:43 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:51:48 Screen | NSKeyDown | name=_ h=83.0 y=-83.0 w=1280.0 owner=iTerm x=0.0
+2012-10-13 11:51:48 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:51:51 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:51:52 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:51:54 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:51:54 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:51:54 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:51:55 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:52:01 Mouse | NSLeftMouseDown | y=568.1484375 x=734.03125
+2012-10-13 11:52:03 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:52:04 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:52:05 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:52:06 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:52:09 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:52:10 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:52:19 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:52:21 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:52:23 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:52:23 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:52:23 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 11:52:24 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:52:34 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:52:35 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:52:38 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:52:41 Screen | NSKeyDown | name=application.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:52:41 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:52:42 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:52:42 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:53:11 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:53:12 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:53:13 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:13 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:13 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:53:13 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:14 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:53:15 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:53:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:17 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:53:18 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:53:18 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:53:18 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:53:18 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:53:18 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:19 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:53:19 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:53:19 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:53:20 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:53:20 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:53:20 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:53:20 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:20 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:22 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 11:53:23 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:28 Key | NSKeyDown | char="f" mods=['COMMAND'] key=3 is_repeat=False
+2012-10-13 11:53:28 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:53:28 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:28 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:53:29 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:29 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:30 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:31 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:32 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:32 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:53:32 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:54:02 Mouse | NSLeftMouseDown | y=268.234375 x=308.83984375
+2012-10-13 11:54:05 Key | NSKeyDown | char="c" mods=['COMMAND'] key=8 is_repeat=False
+2012-10-13 11:54:05 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:54:08 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:54:08 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:08 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:08 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:08 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:09 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:11 Mouse | NSLeftMouseDown | y=241.484375 x=302.19140625
+2012-10-13 11:54:12 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:54:14 Mouse | NSLeftMouseDown | y=244.671875 x=547.42578125
+2012-10-13 11:54:14 Mouse | NSLeftMouseDown | y=244.671875 x=547.42578125
+2012-10-13 11:54:15 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 11:54:16 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:54:16 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:54:16 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 11:54:16 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:54:17 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:54:17 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:54:17 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:54:17 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:54:17 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:54:18 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:19 Key | NSKeyDown | char="j" mods=[] key=38 is_repeat=False
+2012-10-13 11:54:19 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:54:20 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:54:21 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:54:24 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:24 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:25 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:54:27 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:54:30 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:54:31 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:54:39 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:54:39 Mouse | NSLeftMouseDown | y=241.53515625 x=512.37109375
+2012-10-13 11:54:39 Mouse | NSLeftMouseDown | y=241.53515625 x=512.37109375
+2012-10-13 11:54:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:40 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:40 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:40 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:44 Mouse | NSLeftMouseDown | y=244.578125 x=546.10546875
+2012-10-13 11:54:44 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:44 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:45 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:54:45 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:54:45 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:54:48 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:54:51 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:54:51 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:51 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:52 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:53 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:54 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:54:57 Mouse | NSLeftMouseDown | y=450.01171875 x=375.17578125
+2012-10-13 11:54:57 Mouse | NSLeftMouseDown | y=450.01171875 x=375.17578125
+2012-10-13 11:54:57 Mouse | NSLeftMouseDown | y=450.01171875 x=375.17578125
+2012-10-13 11:54:58 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:54:59 Mouse | NSLeftMouseDown | y=368.79296875 x=330.2890625
+2012-10-13 11:54:59 Mouse | NSLeftMouseDown | y=368.79296875 x=330.2890625
+2012-10-13 11:54:59 Mouse | NSLeftMouseDown | y=368.79296875 x=330.2890625
+2012-10-13 11:55:00 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:00 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:55:00 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:08 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:10 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:55:10 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:10 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:11 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:11 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:12 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:12 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:12 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:14 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char="w" mods=[] key=13 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:55:15 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:55:16 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:55:16 Key | NSKeyDown | char="1" mods=[] key=18 is_repeat=False
+2012-10-13 11:55:16 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 11:55:16 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 11:55:16 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 11:55:17 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 11:55:17 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:55:18 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:55:18 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:55:18 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:55:18 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:55:18 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:55:20 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char="1" mods=[] key=18 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 11:55:21 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 11:55:22 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:55:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:25 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:55:27 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:28 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:55:28 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:31 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:55:31 Mouse | NSLeftMouseDown | y=226.4296875 x=360.87890625
+2012-10-13 11:55:31 Mouse | NSLeftMouseDown | y=226.4296875 x=360.87890625
+2012-10-13 11:55:34 Mouse | NSLeftMouseDown | y=226.24609375 x=389.9765625
+2012-10-13 11:55:35 Mouse | NSLeftMouseDown | y=254.703125 x=334.171875
+2012-10-13 11:55:35 Mouse | NSLeftMouseDown | y=254.703125 x=334.171875
+2012-10-13 11:55:36 Mouse | NSLeftMouseDown | y=232.97265625 x=325.0390625
+2012-10-13 11:55:44 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:45 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:45 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:45 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:46 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:55:49 Mouse | NSLeftMouseDown | y=467.81640625 x=362.5234375
+2012-10-13 11:55:50 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:55:50 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:55:51 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:55:52 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:55:52 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:55:52 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:55:52 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:55:53 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:55:55 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:55:57 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:56:06 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:56:06 Mouse | NSLeftMouseDown | y=469.765625 x=383.1953125
+2012-10-13 11:56:07 Mouse | NSLeftMouseDown | y=469.765625 x=383.1953125
+2012-10-13 11:56:09 Mouse | NSLeftMouseDown | y=496.17578125 x=371.0
+2012-10-13 11:56:10 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:56:11 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:56:11 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:56:12 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:56:12 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:56:12 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:56:12 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:56:14 Mouse | NSLeftMouseDown | y=328.59375 x=314.91796875
+2012-10-13 11:56:14 Mouse | NSLeftMouseDown | y=328.59375 x=314.91796875
+2012-10-13 11:56:14 Mouse | NSLeftMouseDown | y=328.59375 x=314.91796875
+2012-10-13 11:56:14 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:56:15 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:56:15 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:56:18 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:56:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:56:39 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:56:39 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:40 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:41 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:41 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:42 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:43 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:44 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:44 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:45 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:45 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:46 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:46 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:56:48 Mouse | NSLeftMouseDown | y=721.43359375 x=288.96484375
+2012-10-13 11:56:48 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:56:48 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:56:48 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:56:49 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:56:50 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:56:51 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:56:51 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:56:52 Key | NSKeyDown | char="!" mods=[] key=18 is_repeat=False
+2012-10-13 11:56:52 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:56:52 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:56:54 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:56:58 Mouse | NSLeftMouseDown | y=422.62890625 x=501.171875
+2012-10-13 11:56:59 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:57:02 Mouse | NSLeftMouseDown | y=46.76953125 x=395.3984375
+2012-10-13 11:57:04 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:05 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:57:05 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:57:05 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:57:06 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:57:10 Mouse | NSLeftMouseDown | y=717.88671875 x=299.54296875
+2012-10-13 11:57:11 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:11 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 11:57:11 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:11 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:11 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:57:12 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:57:13 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:57:13 Key | NSKeyDown | char="_" mods=[] key=27 is_repeat=False
+2012-10-13 11:57:13 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:13 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:57:14 Key | NSKeyDown | char="?" mods=[] key=44 is_repeat=False
+2012-10-13 11:57:14 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:16 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:18 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:18 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:57:19 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:20 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:20 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:21 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:21 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 11:57:21 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:21 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:57:21 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:57:22 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:57:22 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:26 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:27 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:57:29 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:29 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:29 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:29 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:57:30 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:57:31 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:57:31 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:57:31 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:57:32 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:57:33 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:57:33 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:57:33 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:57:33 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:57:34 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:57:34 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:34 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:57:35 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:57:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:57:42 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:57:46 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:46 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:48 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:48 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 11:57:49 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:57:50 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:57:51 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:57:51 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:57:51 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:57:52 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:57:52 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:57:53 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:57:53 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:05 Mouse | NSLeftMouseDown | y=451.26953125 x=349.5859375
+2012-10-13 11:58:05 Mouse | NSLeftMouseDown | y=451.26953125 x=349.5859375
+2012-10-13 11:58:06 Mouse | NSLeftMouseDown | y=451.26953125 x=349.5859375
+2012-10-13 11:58:06 Key | NSKeyDown | char="x" mods=['COMMAND'] key=7 is_repeat=False
+2012-10-13 11:58:07 Mouse | NSLeftMouseDown | y=690.45703125 x=352.24609375
+2012-10-13 11:58:08 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:58:09 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:58:09 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:58:09 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:58:12 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 11:58:13 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:58:13 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:58:13 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:58:14 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:58:14 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:14 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:58:15 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:58:15 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:58:15 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:58:15 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 11:58:15 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:58:16 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:58:17 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:58:17 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 11:58:17 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:58:17 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 11:58:17 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 11:58:18 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 11:58:18 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:58:18 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:58:19 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:58:19 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:58:20 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 11:58:20 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 11:58:20 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:58:20 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:58:20 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 11:58:21 Key | NSKeyDown | char=">" mods=[] key=47 is_repeat=False
+2012-10-13 11:58:21 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:58:24 Mouse | NSLeftMouseDown | y=649.63671875 x=299.1875
+2012-10-13 11:58:25 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:25 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:28 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:28 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:28 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:58:29 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:32 Mouse | NSLeftMouseDown | y=301.65234375 x=314.57421875
+2012-10-13 11:58:34 Key | NSKeyDown | char="c" mods=['COMMAND'] key=8 is_repeat=False
+2012-10-13 11:58:35 Mouse | NSLeftMouseDown | y=633.609375 x=387.3828125
+2012-10-13 11:58:36 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 11:58:36 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:58:37 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:40 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:58:42 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:45 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:58:45 Mouse | NSLeftMouseDown | y=644.1328125 x=464.16796875
+2012-10-13 11:58:45 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:58:46 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:58:46 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:58:46 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:58:46 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:58:46 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 11:58:47 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:58:47 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:58:47 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:58:47 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:58:48 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:58:48 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:50 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:58:52 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:58:53 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:54 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:58:54 Mouse | NSLeftMouseDown | y=645.79296875 x=495.54296875
+2012-10-13 11:58:55 Mouse | NSLeftMouseDown | y=645.79296875 x=488.5
+2012-10-13 11:58:55 Mouse | NSLeftMouseDown | y=645.79296875 x=488.5
+2012-10-13 11:58:56 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 11:58:56 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 11:58:56 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 11:58:56 Key | NSKeyDown | char="w" mods=[] key=13 is_repeat=False
+2012-10-13 11:58:56 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:58:57 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:58:57 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 11:58:58 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 11:58:59 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 11:59:01 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:05 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:59:05 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:08 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:08 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 11:59:08 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:59:10 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:22 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:59:22 Mouse | NSLeftMouseDown | y=649.328125 x=453.546875
+2012-10-13 11:59:22 Mouse | NSLeftMouseDown | y=649.328125 x=453.546875
+2012-10-13 11:59:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:25 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 11:59:27 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 11:59:27 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:31 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 11:59:32 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 11:59:32 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:59:33 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:59:33 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:59:34 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:59:34 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 11:59:37 Mouse | NSLeftMouseDown | y=247.66796875 x=364.8359375
+2012-10-13 11:59:40 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 11:59:42 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char="1" mods=[] key=18 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 11:59:43 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 11:59:44 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 11:59:56 Mouse | NSLeftMouseDown | y=228.26171875 x=358.609375
+2012-10-13 11:59:56 Mouse | NSLeftMouseDown | y=228.26171875 x=358.609375
+2012-10-13 12:00:00 Mouse | NSLeftMouseDown | y=240.203125 x=396.984375
+2012-10-13 12:00:00 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:00 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:00:00 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:00:01 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:00:02 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:00:02 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:00:02 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 12:00:03 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:00:03 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:03 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:00:04 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:00:04 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:00:05 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:00:05 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:05 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:00:07 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:08 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:08 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:08 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:00:09 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:00:09 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:11 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:00:12 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:00:12 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:00:13 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:00:13 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:14 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:00:14 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:00:14 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:00:14 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:00:14 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:15 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:00:15 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:00:15 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:00:15 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:00:15 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:00:16 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:00:16 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:17 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:00:17 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:00:17 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:00:17 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:00:18 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:00:18 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:00:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:00:22 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:00:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:00:25 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:00:25 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:00:48 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:01:00 Key | NSKeyDown | char="t" mods=['COMMAND'] key=17 is_repeat=False
+2012-10-13 12:01:00 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:01:01 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:01:01 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:01:01 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:01:02 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:01:03 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:01:04 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:01:36 Key | NSKeyDown | char="w" mods=['COMMAND'] key=13 is_repeat=False
+2012-10-13 12:01:47 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:01:49 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:01:49 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:01:49 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:01:50 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:01:50 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:01:51 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:01:58 Mouse | NSLeftMouseDown | y=650.11328125 x=455.46484375
+2012-10-13 12:02:02 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:02:03 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:02:03 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:02:03 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:02:04 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:02:04 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:02:04 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:02:04 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:02:04 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:02:05 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:02:05 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:02:05 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:08 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:02:11 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:14 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:02:14 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:02:16 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:02:17 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:02:17 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:19 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:02:20 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:22 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:02:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:22 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:24 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:26 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:02:26 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:34 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:36 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:02:36 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:36 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:02:39 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:02:44 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:02:45 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 12:02:45 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:02:45 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:02:45 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 12:02:46 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:02:46 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:02:46 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:02:46 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:02:47 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:02:48 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:02:48 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:02:48 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:02:48 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:02:48 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:02:49 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:02:49 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:02:53 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:02:53 Key | NSKeyDown | char="<" mods=[] key=43 is_repeat=False
+2012-10-13 12:02:54 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 12:02:54 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:02:54 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:02:54 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 12:02:55 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:02:55 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:02:59 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:01 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:03:01 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:03:01 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:03:01 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:03:02 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:03:03 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:03:04 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:04 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:04 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 12:03:05 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:03:05 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:03:06 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:03:06 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:03:06 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:03:07 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:03:07 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:03:07 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:03:07 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:03:08 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:03:08 Key | NSKeyDown | char="{" mods=[] key=33 is_repeat=False
+2012-10-13 12:03:08 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:09 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:12 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:03:13 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:03:14 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:03:14 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:03:14 Key | NSKeyDown | char="2" mods=[] key=19 is_repeat=False
+2012-10-13 12:03:14 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:03:14 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:03:15 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:03:15 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:03:16 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:19 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:21 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:03:21 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:24 Key | NSKeyDown | char="b" mods=[] key=11 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:03:25 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:03:26 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:03:27 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:03:27 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:27 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:03:27 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:03:27 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:03:28 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:03:28 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:03:28 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 12:03:28 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 12:03:28 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:03:29 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:39 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:41 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:03:41 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:03:41 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:03:41 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:03:42 Key | NSKeyDown | char=";" mods=[] key=41 is_repeat=False
+2012-10-13 12:03:43 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:03:43 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:03:43 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:03:47 Key | NSKeyDown | char="1" mods=[] key=18 is_repeat=False
+2012-10-13 12:03:48 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:03:48 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:03:48 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:03:50 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:03:50 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:54 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:03:55 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:03:56 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:03:56 Key | NSKeyDown | char="2" mods=[] key=19 is_repeat=False
+2012-10-13 12:03:57 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:03:57 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:04:03 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:04:04 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:04:06 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:04:07 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:04:07 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:04:07 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:04:08 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:04:09 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:04:09 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:04:09 Key | NSKeyDown | char="5" mods=[] key=23 is_repeat=False
+2012-10-13 12:04:09 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:04:09 Key | NSKeyDown | char="%" mods=[] key=23 is_repeat=False
+2012-10-13 12:04:10 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:04:10 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:17 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:05:17 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:19 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:05:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:19 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:20 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:21 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:05:21 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 12:05:21 Key | NSKeyDown | char="5" mods=[] key=23 is_repeat=False
+2012-10-13 12:05:21 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:05:22 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:25 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:28 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:05:28 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:28 Key | NSKeyDown | char="8" mods=[] key=28 is_repeat=False
+2012-10-13 12:05:29 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:05:29 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:33 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:05:39 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:41 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:05:41 Mouse | NSLeftMouseDown | y=102.27734375 x=422.18359375
+2012-10-13 12:05:41 Mouse | NSLeftMouseDown | y=102.27734375 x=422.18359375
+2012-10-13 12:05:41 Key | NSKeyDown | char="w" mods=[] key=13 is_repeat=False
+2012-10-13 12:05:41 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:05:41 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:05:42 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:05:42 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:05:43 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:05:44 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:48 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:49 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:05:49 Mouse | NSLeftMouseDown | y=62.21484375 x=365.078125
+2012-10-13 12:05:50 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:05:50 Key | NSKeyDown | char="7" mods=[] key=26 is_repeat=False
+2012-10-13 12:05:51 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:05:51 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:05:59 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:06:01 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:06:01 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:06:03 Mouse | NSLeftMouseDown | y=741.82421875 x=72.6953125
+2012-10-13 12:06:06 Mouse | NSLeftMouseDown | y=620.484375 x=337.5859375
+2012-10-13 12:06:08 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:06:12 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:06:12 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:06:12 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 12:06:13 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:06:13 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:06:13 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 12:06:13 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:06:14 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:06:14 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:06:15 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:06:15 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:06:15 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:06:15 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:06:16 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:06:16 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:06:16 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:06:16 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:06:20 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:06:20 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:06:22 Mouse | NSLeftMouseDown | y=614.84765625 x=359.80859375
+2012-10-13 12:06:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:06:23 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:06:24 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:06:25 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:06:28 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:06:29 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:06:31 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:06:39 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:06:39 Mouse | NSLeftMouseDown | y=623.0 x=446.77734375
+2012-10-13 12:06:41 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:06:42 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:06:43 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:06:43 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:07:08 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:07:13 Screen | NSKeyDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:07:13 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:07:13 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:07:13 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:07:13 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:07:14 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:07:14 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:07:14 Key | NSKeyDown | char="=" mods=[] key=24 is_repeat=False
+2012-10-13 12:07:14 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:07:17 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:07:17 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:07:17 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:07:17 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:07:18 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:07:19 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:07:20 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:07:20 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:07:20 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:07:21 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:07:22 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:07:25 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:07:25 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:07:25 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 12:07:25 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:07:26 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:07:26 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:07:26 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:07:26 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:07:26 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:07:27 Key | NSKeyDown | char="{" mods=[] key=33 is_repeat=False
+2012-10-13 12:07:28 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:07:28 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:07:29 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:07:29 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:07:29 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:07:29 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:07:30 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:07:30 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:07:30 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:07:30 Key | NSKeyDown | char="z" mods=[] key=6 is_repeat=False
+2012-10-13 12:07:30 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:07:43 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:07:44 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:07:45 Key | NSKeyDown | char="3" mods=[] key=20 is_repeat=False
+2012-10-13 12:07:45 Key | NSKeyDown | char="0" mods=[] key=29 is_repeat=False
+2012-10-13 12:07:46 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:07:46 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:07:46 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:07:47 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:07:50 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:07:51 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:07:51 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:08:08 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:08:09 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:08:09 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:08:09 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:08:09 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:08:09 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:08:11 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:08:11 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:14 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:08:15 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:16 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:08:16 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:19 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:08:19 Mouse | NSLeftMouseDown | y=28.484375 x=304.8828125
+2012-10-13 12:08:20 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:08:20 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:08:20 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:08:20 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:08:20 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:08:21 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:08:21 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:23 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:08:32 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:08:33 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:36 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:08:36 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:37 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:08:37 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:08:37 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:08:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:08:38 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:08:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:08:38 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:08:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:08:39 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:08:39 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:08:39 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:08:39 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:08:40 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:08:40 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:08:40 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:08:40 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:08:41 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:08:44 Screen | NSKeyDown | name=images h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 12:08:44 Key | NSKeyDown | char="	" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:08:46 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:08:47 Mouse | NSLeftMouseDown | y=726.32421875 x=13.94921875
+2012-10-13 12:08:48 Mouse | NSLeftMouseDown | y=726.32421875 x=13.94921875
+2012-10-13 12:08:56 Mouse | NSLeftMouseDown | y=599.97265625 x=188.2890625
+2012-10-13 12:08:56 Mouse | NSLeftMouseDown | y=599.97265625 x=188.2890625
+2012-10-13 12:08:59 Mouse | NSLeftMouseDown | y=719.33203125 x=22.04296875
+2012-10-13 12:08:59 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:04 Screen | NSKeyDown | name=app h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 12:09:04 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:12 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:14 Screen | NSKeyDown | name=app h=738.0 y=58.0 w=1280.0 owner=Finder x=0.0
+2012-10-13 12:09:14 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:18 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:09:18 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:21 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:09:28 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:09:33 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:09:52 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:09:54 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:09:54 Mouse | NSLeftMouseDown | y=80.74609375 x=376.2109375
+2012-10-13 12:09:54 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:09:54 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:09:55 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:09:55 Key | NSKeyDown | char="x" mods=[] key=7 is_repeat=False
+2012-10-13 12:09:55 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:09:55 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:09:55 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:09:56 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:09:56 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 12:09:56 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:09:56 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:09:57 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:57 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:58 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:58 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:59 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:59 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:09:59 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:00 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:00 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:00 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:01 Key | NSKeyDown | char="f" mods=[] key=3 is_repeat=False
+2012-10-13 12:10:01 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:10:01 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:10:01 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:10:01 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:10:04 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:04 Key | NSKeyDown | char=":" mods=[] key=41 is_repeat=False
+2012-10-13 12:10:04 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:10:05 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:10:06 Key | NSKeyDown | char="H" mods=[] key=4 is_repeat=False
+2012-10-13 12:10:06 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:10:06 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:10:06 Key | NSKeyDown | char="v" mods=[] key=9 is_repeat=False
+2012-10-13 12:10:06 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:10:07 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:10:07 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:10:07 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:10:07 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:10:08 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:10:08 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:10:11 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:10:12 Key | NSKeyDown | char="r" mods=['COMMAND'] key=15 is_repeat=False
+2012-10-13 12:10:14 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:10:16 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:10:16 Mouse | NSLeftMouseDown | y=59.08203125 x=331.70703125
+2012-10-13 12:10:18 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:10:18 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:10:18 Key | NSKeyDown | char="y" mods=[] key=16 is_repeat=False
+2012-10-13 12:10:18 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:10:20 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:21 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:23 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:23 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:10:23 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:10:26 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:10:27 Screen | NSLeftMouseDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:10:27 Mouse | NSLeftMouseDown | y=54.296875 x=311.44140625
+2012-10-13 12:10:27 Mouse | NSLeftMouseDown | y=54.296875 x=311.44140625
+2012-10-13 12:10:28 Mouse | NSLeftMouseDown | y=65.765625 x=320.23046875
+2012-10-13 12:10:28 Mouse | NSLeftMouseDown | y=65.765625 x=320.23046875
+2012-10-13 12:10:29 Mouse | NSLeftMouseDown | y=65.765625 x=320.23046875
+2012-10-13 12:10:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:10:29 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:10:30 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:10:40 Mouse | NSLeftMouseDown | y=532.27734375 x=55.8984375
+2012-10-13 12:10:43 Mouse | NSLeftMouseDown | y=591.42578125 x=546.3125
+2012-10-13 12:10:44 Key | NSKeyDown | char="M" mods=[] key=46 is_repeat=False
+2012-10-13 12:10:44 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:10:44 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:10:44 Key | NSKeyDown | char="k" mods=[] key=40 is_repeat=False
+2012-10-13 12:10:45 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 12:10:45 Key | NSKeyDown | char="	" mods=[] key=48 is_repeat=False
+2012-10-13 12:10:52 Mouse | NSLeftMouseDown | y=531.296875 x=477.0703125
+2012-10-13 12:10:53 Mouse | NSLeftMouseDown | y=525.19140625 x=237.51953125
+2012-10-13 12:11:18 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:11:20 Screen | NSKeyDown | name=application.css h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:11:20 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:11:21 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:11:21 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:11:21 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:11:22 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:11:25 Mouse | NSLeftMouseDown | y=533.95703125 x=474.6484375
+2012-10-13 12:11:25 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:25 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:26 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:27 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:28 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:28 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:29 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:30 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:31 Mouse | NSLeftMouseDown | y=550.21875 x=482.80078125
+2012-10-13 12:11:32 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:33 Mouse | NSLeftMouseDown | y=568.54296875 x=736.23046875
+2012-10-13 12:11:33 Mouse | NSLeftMouseDown | y=568.54296875 x=736.23046875
+2012-10-13 12:11:34 Mouse | NSLeftMouseDown | y=568.54296875 x=736.23046875
+2012-10-13 12:11:34 Key | NSKeyDown | char="c" mods=['COMMAND'] key=8 is_repeat=False
+2012-10-13 12:11:35 Mouse | NSLeftMouseDown | y=568.54296875 x=821.91796875
+2012-10-13 12:11:36 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:11:36 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 12:11:38 Mouse | NSLeftMouseDown | y=552.04296875 x=430.09765625
+2012-10-13 12:11:38 Mouse | NSLeftMouseDown | y=552.04296875 x=430.09765625
+2012-10-13 12:11:39 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:11:39 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:11:39 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:11:39 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:41 Mouse | NSLeftMouseDown | y=551.36328125 x=469.40625
+2012-10-13 12:11:41 Mouse | NSLeftMouseDown | y=551.36328125 x=469.40625
+2012-10-13 12:11:42 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:11:42 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:11:42 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:11:42 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:11:42 Key | NSKeyDown | char="_" mods=[] key=27 is_repeat=False
+2012-10-13 12:11:43 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:11:43 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:11:43 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:43 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:43 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:44 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:44 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:11:45 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:11:45 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:11:45 Key | NSKeyDown | char="_" mods=[] key=27 is_repeat=False
+2012-10-13 12:11:45 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:11:45 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:11:46 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:11:46 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:11:46 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:11:46 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:11:51 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:11:53 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:11:53 Mouse | NSLeftMouseDown | y=568.83984375 x=445.9296875
+2012-10-13 12:11:53 Mouse | NSLeftMouseDown | y=568.83984375 x=445.9296875
+2012-10-13 12:11:53 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:54 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:11:54 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:11:55 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:11:58 Mouse | NSLeftMouseDown | y=524.12109375 x=145.6953125
+2012-10-13 12:12:04 Mouse | NSLeftMouseDown | y=486.37109375 x=271.67578125
+2012-10-13 12:12:07 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:12:12 Screen | NSLeftMouseDown | name=home.html.erb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:12:12 Mouse | NSLeftMouseDown | y=470.3671875 x=145.82421875
+2012-10-13 12:12:12 Mouse | NSLeftMouseDown | y=470.3671875 x=145.82421875
+2012-10-13 12:12:19 Mouse | NSLeftMouseDown | y=591.359375 x=444.56640625
+2012-10-13 12:12:19 Mouse | NSLeftMouseDown | y=591.359375 x=444.56640625
+2012-10-13 12:12:26 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:12:27 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:27 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:27 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:12:27 Key | NSKeyDown | char="_" mods=[] key=27 is_repeat=False
+2012-10-13 12:12:27 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:12:28 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:12:28 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:12:28 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:12:28 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:12:33 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 12:12:33 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:12:33 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:12:34 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:12:36 Mouse | NSLeftMouseDown | y=728.046875 x=246.1953125
+2012-10-13 12:12:37 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:12:38 Key | NSKeyDown | char="l" mods=[] key=37 is_repeat=False
+2012-10-13 12:12:38 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:38 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:12:38 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:38 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:12:39 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:12:39 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:12:39 Mouse | NSLeftMouseDown | y=720.5546875 x=433.8359375
+2012-10-13 12:12:40 Mouse | NSLeftMouseDown | y=720.5546875 x=341.7421875
+2012-10-13 12:12:41 Mouse | NSLeftMouseDown | y=718.5546875 x=244.265625
+2012-10-13 12:12:42 Key | NSKeyDown | char="/" mods=[] key=44 is_repeat=False
+2012-10-13 12:12:43 Key | NSKeyDown | char="s" mods=[] key=1 is_repeat=False
+2012-10-13 12:12:43 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:12:43 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:12:43 Key | NSKeyDown | char="n" mods=[] key=45 is_repeat=False
+2012-10-13 12:12:44 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:12:44 Key | NSKeyDown | char="u" mods=[] key=32 is_repeat=False
+2012-10-13 12:12:44 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:12:44 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:12:45 Mouse | NSLeftMouseDown | y=704.23046875 x=410.046875
+2012-10-13 12:12:46 Mouse | NSLeftMouseDown | y=717.42578125 x=243.80078125
+2012-10-13 12:12:46 Key | NSKeyDown | char="" mods=[] key=51 is_repeat=False
+2012-10-13 12:12:46 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:12:52 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:12:54 Screen | NSKeyDown | name=sessions_controller.rb h=774.0 y=22.0 w=1280.0 owner=TextMate x=0.0
+2012-10-13 12:12:54 Key | NSKeyDown | char="" mods=['CONTROL'] key=48 is_repeat=False
+2012-10-13 12:13:19 Mouse | NSLeftMouseDown | y=450.61328125 x=289.83984375
+2012-10-13 12:13:23 Key | NSKeyDown | char="c" mods=['COMMAND'] key=8 is_repeat=False
+2012-10-13 12:13:26 Mouse | NSLeftMouseDown | y=679.50390625 x=407.734375
+2012-10-13 12:13:26 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:13:27 Key | NSKeyDown | char="v" mods=['COMMAND'] key=9 is_repeat=False
+2012-10-13 12:13:28 Key | NSKeyDown | char="s" mods=['COMMAND'] key=1 is_repeat=False
+2012-10-13 12:13:28 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:13:35 Mouse | NSLeftMouseDown | y=40.04296875 x=135.4453125
+2012-10-13 12:13:35 Mouse | NSLeftMouseDown | y=48.21484375 x=73.89453125
+2012-10-13 12:13:37 Mouse | NSLeftMouseDown | y=46.984375 x=1240.9921875
+2012-10-13 12:13:38 Mouse | NSLeftMouseDown | y=26.66015625 x=1246.05859375
+2012-10-13 12:13:39 Mouse | NSLeftMouseDown | y=60.734375 x=1212.703125
+2012-10-13 12:13:44 Mouse | NSLeftMouseDown | y=518.80859375 x=156.49609375
+2012-10-13 12:13:46 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:13:48 Mouse | NSLeftMouseDown | y=591.875 x=349.48046875
+2012-10-13 12:13:49 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:14:19 Mouse | NSLeftMouseDown | y=27.8359375 x=1247.15234375
+2012-10-13 12:14:20 Mouse | NSLeftMouseDown | y=27.8359375 x=1247.15234375
+2012-10-13 12:14:20 Mouse | NSLeftMouseDown | y=27.8359375 x=1247.15234375
+2012-10-13 12:14:21 Mouse | NSLeftMouseDown | y=27.8359375 x=1247.15234375
+2012-10-13 12:14:22 Mouse | NSLeftMouseDown | y=405.39453125 x=985.3203125
+2012-10-13 12:15:41 Key | NSKeyDown | char="	" mods=['COMMAND'] key=48 is_repeat=False
+2012-10-13 12:15:44 Screen | NSKeyDown | name=_ h=83.0 y=-83.0 w=1280.0 owner=iTerm x=0.0
+2012-10-13 12:15:45 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:15:46 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:15:46 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:15:46 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:15:46 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="." mods=[] key=47 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
+2012-10-13 12:15:47 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:15:48 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:15:48 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:15:48 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:48 Key | NSKeyDown | char="c" mods=[] key=8 is_repeat=False
+2012-10-13 12:15:48 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="t" mods=[] key=17 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:15:49 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:50 Key | NSKeyDown | char="-" mods=[] key=27 is_repeat=False
+2012-10-13 12:15:50 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:15:50 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:50 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:15:51 Key | NSKeyDown | char="r" mods=[] key=15 is_repeat=False
+2012-10-13 12:15:51 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:15:52 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:15:52 Key | NSKeyDown | char="i" mods=[] key=34 is_repeat=False
+2012-10-13 12:15:52 Key | NSKeyDown | char="d" mods=[] key=2 is_repeat=False
+2012-10-13 12:15:53 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:53 Key | NSKeyDown | char="h" mods=[] key=4 is_repeat=False
+2012-10-13 12:15:53 Key | NSKeyDown | char="o" mods=[] key=31 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="m" mods=[] key=46 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char=" " mods=[] key=49 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="p" mods=[] key=35 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="a" mods=[] key=0 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="g" mods=[] key=5 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="e" mods=[] key=14 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char=""" mods=[] key=39 is_repeat=False
+2012-10-13 12:15:54 Key | NSKeyDown | char="" mods=[] key=36 is_repeat=False
