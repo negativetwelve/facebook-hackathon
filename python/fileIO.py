@@ -1,4 +1,5 @@
 import sqlite3
+from copy import deepcopy
 from datetime import datetime
 
 KEY = "Key"
@@ -22,6 +23,7 @@ empty_things = [EMPTY_INDEX, EMPTY_KEY_CODE, EMPTY_CHAR,
     EMPTY_NAME, EMPTY_WINDOW]
 
 reset_codes = {36: "\n", 48: "<TAB>", 51: "<BACK>"}
+separating_codes = {36: "\n", 48: "<TAB>", 49: " "}
 
 
 class Position:
@@ -269,7 +271,70 @@ def make_charlist_dict(content):
     return chars, master_dict
 
 
-def make_timeword_dictionaries(chars_list):
+def make_basic_dictionary(chars_list):
+    """ Should return a dictionary of space/tab/enter
+        separated words, where the key is the entire
+        built up word and the value is a Word object.
+
+        Note that this dictionary has mispelled words,
+        which include <BACK> chars, and normal words,
+        where the user never hit backspace. """
+    basic, built = {}, []
+    for char in chars_list:
+        if char.code not in separating_codes:
+            built.append(char)
+        elif char.code in separating_codes:
+            if len(built) == 0:
+                continue
+            last_char = built[-1]
+            last_word = "".join([x.char for x in built]).strip()
+            word = Word(last_char)
+            word.reset_char(last_word)
+            # basic[last_word] = word
+            basic.setdefault(last_word, []).append(word)  # Maybe...
+            built = []
+        else:
+            print 'poop'
+    return basic
+
+def make_all_dictionaries(basic_dictionary):
+    """ Should take in a basic dictionary from the
+        previous method and convert it into:
+            1) "By words", a dictionary from corrected
+                words to a list of Word objects
+            2) "By times", a dictionary from times
+                to a list of word objects
+            3) "Mispelled", a dictionary from mispelled
+                words to a list of Word objects.
+                Mispelled words include <BACK> chars
+    """
+    # print basic_dictionary
+    by_words, by_times, mispelled = dict(), dict(), dict()
+    count = 0
+    for word_wat, word_list in basic_dictionary.items():
+        index = word_wat.find(reset_codes[51])  # Backspace
+        if index >= 0:
+            mispelled[word_wat] = deepcopy(word_list)
+        #if count in [4,5,6]:
+            #print word_wat
+        while index >= 0:
+            if index == 0:
+                while index == 0:
+                    word_wat = word_wat[len(reset_codes[51]):]
+                    index = word_wat.find(reset_codes[51])
+            else: 
+                word_wat = word_wat[:index-1] + word_wat[index+len(reset_codes[51]):]  # TODO
+                # print string
+                index = word_wat.find(reset_codes[51])
+        for word in word_list:
+            word.reset_char(word_wat)
+            by_times.setdefault(word.time, []).append(word)
+        by_words[word_wat] = deepcopy(word_list)
+        #count += 1
+    return by_words, by_times, mispelled
+
+
+def make_timeword_dictionaries_old(chars_list):
     def add_to_dictionaries(word):
         if word.key not in word_dict['by words']:
             word_dict['by words'][word] = []
@@ -320,8 +385,10 @@ def parse():
     #print(keycodes)
 
     chars, master_dict = make_charlist_dict(content)
-    output_str, word_dicts = make_timeword_dictionaries(chars)
-    return output_str, master_dict, word_dicts
+    basic = make_basic_dictionary(chars)
+    by_words, by_times, mispelled = make_all_dictionaries(basic)
+    return by_words, by_words, mispelled, master_dict
+
 
 if __name__ == '__main__':
     random_datetime = '2012-01-01'
@@ -336,7 +403,8 @@ if __name__ == '__main__':
         c.execute('SELECT * FROM events')
         start_index = len(c.fetchall())
 
-    output_str, master_dict, word_dicts = parse()
+    # output_str, master_dict, word_dicts = parse()
+    by_words, by_time, mispelled, master_dict = parse()
     insertion = []
     for event, values in master_dict.items():
         for key, lists in values.items():
@@ -368,18 +436,36 @@ if __name__ == '__main__':
                 insertion.append((start_index, str(word), item.date, item.time,
                     random_datetime, random_datetime, event, window, str(duration)))
                 start_index += 1
-    duration = 0
-    for event, values in word_dicts.items():
-        if event == 'by_times':
-            continue
-        for key, words in values.items():
-            for word in words:
-                window = word.window
-                if not isinstance(window, str):
-                    window = window.window
-                insertion.append((start_index, str(word), word.date, word.time,
-                        random_datetime, random_datetime, "WORD", window, str(duration)))
-                start_index += 1
+    #duration = 0
+    #for event, values in by_words.items():
+        #if event == 'by_times':
+            #continue
+        #for key, words in values.items():
+            #for word in words:
+                #window = word.window
+                #if not isinstance(window, str):
+                    #window = window.window
+                #insertion.append((start_index, str(word), word.date, word.time,
+                        #random_datetime, random_datetime, "WORD", window, str(duration)))
+                #start_index += 1
+
+    for correct, words in by_words.items():
+        for word in words:
+            window = word.window
+            if not isinstance(window, str):
+                window = window.window
+            insertion.append((start_index, correct, word.date, word.time,
+                    random_datetime, random_datetime, "WORD", window, str(0)))
+            start_index += 1
+
+    for mispelled, words in mispelled.items():
+        for word in words:
+            window = word.window
+            if not isinstance(window, str):
+                window = window.window
+            insertion.append((start_index, mispelled, word.date, word.time,
+                        random_datetime, random_datetime, "Miss", window, str(0)))
+            start_index += 1
 
     c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)', insertion)
     conn.commit()
