@@ -12,3 +12,15 @@
  *= require jqplot
  *= require_tree .
 */
+
+.search-bar-top {
+  padding-top: 6px;
+}
+
+.button-sign-in {
+  padding-top: -4px;
+}
+
+.sign-in-form {
+  padding-top: 4px;
+}
