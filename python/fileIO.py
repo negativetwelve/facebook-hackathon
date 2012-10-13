@@ -38,6 +38,7 @@ class CharTime:
             info = elements[1]
             info = info.replace("^^^^^", '"="')
             if field == "chars":
+                info = info.replace('"', '')
                 self.char = info
             elif field == "keyCode":
                 self.code = int(info)
@@ -57,9 +58,8 @@ def make_keycode_dict():
     f = open('./raw_data/one_of_key.txt', 'r')
     content = f.read()
     
-    chars = make_char_list(content)
-    for char in chars:
-        keycodes[
+    chars, keycodes = make_char_list_dict(content)
+    return keycodes
 
 def parse():
     time_dict = {}
@@ -68,8 +68,11 @@ def parse():
     f = open('./raw_data/sample_output.txt', 'r') #second character for different reading / writing modes
     content = f.read()
     
-    chars, chars_dict = make_char_list_dict(content)
-    print(chars)   
+    keycodes = make_keycode_dict()
+    print(keycodes)
+    
+    #chars, chars_dict = make_char_list_dict(content)
+    #print(chars)   
 
 def make_char_list_dict(content):  
     chars = []
@@ -79,6 +82,7 @@ def make_char_list_dict(content):
         char_object = CharTime()
         char_object.set_info(line)
         chars.append(char_object)
+        chars_dict[char_object.char] = char_object
     return chars, chars_dict
         
 #def make_timeword_dictionaries(chars):
