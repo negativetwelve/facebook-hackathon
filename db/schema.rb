@@ -14,7 +14,9 @@
 ActiveRecord::Schema.define(:version => 20121013033359) do
 
   create_table "events", :force => true do |t|
+    t.text     "event_type"
     t.text     "word"
+    t.text     "window"
     t.text     "date"
     t.text     "time"
     t.datetime "created_at", :null => false

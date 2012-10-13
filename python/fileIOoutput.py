@@ -3,10 +3,10 @@
 import sqlite3
 
 if __name__ == '__main__':
-    conn = sqlite3.connect("../db/development_test.sqlite3")
+    conn = sqlite3.connect("../db/development.sqlite3")
     c = conn.cursor()
 
-    t = ('WORD',)
+    t = ('Key',)
     c.execute('SELECT * FROM events WHERE event_type=?', t)
     everything = c.fetchall()
     for line in everything:

@@ -229,7 +229,7 @@ def make_charlist_dict(content):
             obj = Screen()
             obj.set_info(line)
             add_to_dicts(master_dict[SCREEN], obj, master_dict[TIME])
-            current_window = obj
+            current_screen = obj
         elif event_type == MOUSE:
             obj = Mouse()
             obj.set_info(line, current_screen)
@@ -291,7 +291,7 @@ def parse():
 
 if __name__ == '__main__':
     random_datetime = '2012-01-01'
-    conn = sqlite3.connect('../db/development_test.sqlite3')
+    conn = sqlite3.connect('../db/development.sqlite3')
     c = conn.cursor()
     start_index = 0
     try:
@@ -317,8 +317,16 @@ if __name__ == '__main__':
                     print 'poop'
                     word, window = 'poop', 'poop'
                 window = item.window
+
+                # Needed for everything but Screen events
                 if not isinstance(window, str):
                     window = window.window
+
+                # For the event that the user is still typing in the terminal
+                # and hasn't created a Screen event
+                if window.find('<no window>') >= 0:
+                    window = window.replace('<no window>', 'possibly terminal')
+
                 insertions.append((start_index, event, str(word), window, item.date, item.time, random_datetime, random_datetime))
                 start_index += 1
     for event, values in word_dicts.items():
