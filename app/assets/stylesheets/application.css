@@ -13,14 +13,42 @@
  *= require_tree .
 */
 
-.search-bar-top {
-  padding-top: 6px;
+.bottom {
+  position: fixed;
+  bottom: 0px;
+  left: 10px;
+  background-color: white;
+  padding-top: 10px;
 }
 
-.button-sign-in {
-  padding-top: -4px;
+.user {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
 }
 
-.sign-in-form {
-  padding-top: 4px;
+.main-page {
+  align: left;
+}
+
+.home-page {
+  padding: 10px;
+  position: absolute;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  background-image: url('background.jpg')
+}
+
+.text-home {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  opacity:0.7;
+}
+
+.lifelogger {
+  font-size: 30px;
+  text-align: left;
 }
