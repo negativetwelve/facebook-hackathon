@@ -27,7 +27,7 @@ class Position:
         self.y = y
         
     def __repr__(self):
-        return "({0}, {1})".format(self.x, self.y)
+        return "Position({0}, {1})".format(self.x, self.y)
 
 class Event:
     def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX):
@@ -146,8 +146,10 @@ class Key(Event):
             elif field == "key":
                 self.code = int(info)
             elif field == "mods":
-                info = info.replace('[', " ")
-                info = info.replace(']', " ")
+                info = info.replace("[", " ")
+                info = info.replace("]", " ")
+                info = info.replace("'", " ")
+                info = info.replace("'", " ")
                 info = info.strip()
                 if info != "":
                     self.mod = info
@@ -202,8 +204,8 @@ def make_charlist_dict(content):
             dict[obj.key] = []
         dict[obj.key].append(obj)
         if obj.time not in time_dict:
-            dict[obj.time] = []
-        dict[obj.time].append(obj)
+            time_dict[obj.time] = []
+        time_dict[obj.time].append(obj)
     chars = []
     dict = {KEY: {}, SCREEN: {}, MOUSE: {}, 'time': {}}
     lines = content.split('\n')
@@ -276,10 +278,9 @@ def parse():
     #print(keycodes)
 
     chars, master_dict = make_charlist_dict(content)
-    print(master_dict)
     #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, word_dicts = make_timeword_dictionaries(chars)
-    #print(output_str)
+    print(output_str)
     return output_str, master_dict, word_dicts
 
 """    
