@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121013141421) do
+ActiveRecord::Schema.define(:version => 20121013172915) do
 
   create_table "events", :force => true do |t|
     t.text     "word"
@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(:version => 20121013141421) do
     t.datetime "updated_at", :null => false
     t.text     "event_type"
     t.text     "window"
+    t.text     "duration"
   end
 
   create_table "microposts", :force => true do |t|

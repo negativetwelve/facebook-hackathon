@@ -12,6 +12,7 @@ $(document).ready(function(){
   var plot1 = $.jqplot ('chart1', [<%= @data.to_json %>], {
       // Give the plot a title.
       title: 'Words Typed',
+      grid: { background: '#ffffff'},
       markerOptions: {style:'diamond'},
       renderer: $.jqplot.LineRenderer,
       rendererOption:{ highlightMouseOver :true},
