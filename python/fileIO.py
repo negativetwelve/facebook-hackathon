@@ -92,6 +92,7 @@ def parse():
     chars, chars_dict = make_char_list_dict(content)
     #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, time_dict, word_dict = make_timeword_dictionaries(chars)
+    print(output_str)
 
 def make_char_list_dict(content):  
     chars = []
@@ -121,6 +122,8 @@ def make_timeword_dictionaries(chars_list):
         if char.code in reset_codes:
             if len(output) > 0 and char.code == 51: #backspace
                 output.pop(len(output) - 1)
+            else:
+                output.append(char.char)
             word = WordTime()
             word.set_fields(char)
             add_to_dictionaries(char.char, word)
