@@ -1,4 +1,5 @@
 from time import sleep
+from functools import reduce
 
 EMPTY_INDEX = 'index n/a'
 EMPTY_KEY_CODE = 'code n/a'
@@ -6,9 +7,9 @@ EMPTY_CHAR = 'char n/a'
 EMPTY_TIME = 'time n/a'
 EMPTY_DATE = 'date n/a'
 
+reset_codes = {36: "\n", 48: "<TAB>", 51: "<BACK>"}
+
 class CharTime:    
-    
-    reset_codes = {36: "\n", 48: "\t"}
 
     def __init__(self, index=EMPTY_INDEX):
         self.char = EMPTY_CHAR
@@ -48,18 +49,24 @@ class CharTime:
                 self.reset()
                 
     def reset(self):
-        if self.code in CharTime.reset_codes:
-            self.char = CharTime.reset_codes[self.code]
+        if self.code in reset_codes:
+            self.char = reset_codes[self.code]
         
     def __repr__(self):
-        return "CharTime(char={0}, code={1}, date={2}, time={3})".format(self.char, self.code, self.date, self.time)
+        #return "CharTime(char={0}, code={1}, date={2}, time={3})".format(self.char, self.code, self.date, self.time)
+        return "CT({0}, {1})".format(self.char, self.time)
         
-class WordTime:
-    def __init__(self, word, date, time):
-        self.word = word
-        self.date = date
-        self.time = time    
-
+class WordTime(CharTime):
+        
+    def set_fields(self, char, word=None):
+        if word:
+            self.char = word
+        else:
+            self.char = char.char
+        self.code = char.code
+        self.date = char.date
+        self.time = char.time
+        self.index = char.index
         
 def make_keycode_dict():
     keycodes = {}
@@ -82,8 +89,8 @@ def parse():
     #print(keycodes)
     
     chars, chars_dict = make_char_list_dict(content)
-    print(chars)
-    print(make_timeword_dictionaries(chars))
+    #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
+    output_str, time_dict, word_dict = make_timeword_dictionaries(chars)
 
 def make_char_list_dict(content):  
     chars = []
@@ -93,18 +100,46 @@ def make_char_list_dict(content):
         char_object = CharTime()
         char_object.set_info(line)
         chars.append(char_object)
-        chars_dict[char_object.char] = char_object
+        if char_object.char not in chars_dict:
+            chars_dict[char_object.char] = []
+        chars_dict[char_object.char].append(char_object)
     return chars, chars_dict
         
 def make_timeword_dictionaries(chars_list):
+    def add_to_dictionaries(word, value):
+        if word not in word_dict:
+            word_dict[word] = []
+        word_dict[word].append(value)
+        time_dict[value.time] = value
     output = []
     word_dict = {}
-    for char in chars_list:
-        if len(output) > 0 and char.code == 51:
-            output.pop(len(output) - 1)
+    time_dict = {}
+    current_word = []
+    length = len(chars_list)
+    for i, char in enumerate(chars_list):
+        if char.code in reset_codes:
+            if len(output) > 0 and char.code == 51: #backspace
+                output.pop(len(output) - 1)
+            word = WordTime()
+            word.set_fields(char)
+            add_to_dictionaries(char.char, word)
+            
+            word.set_fields(char, "".join(current_word).strip())
+            add_to_dictionaries(word.char, word)
+            current_word = []
         else:
+            if char.code == 49 or i == length - 1: #space
+                current_word.append(char.char)
+                word = WordTime()
+                word.set_fields(char, "".join(current_word).strip())
+                add_to_dictionaries(word.char, word)
+                current_word = []
+            else:
+                current_word.append(char.char)
             output.append(char.char)
-    print("".join(output))
+    output_str = "".join(output)
+    print(time_dict)
+    return output_str, time_dict, word_dict
 
 parse()
 
