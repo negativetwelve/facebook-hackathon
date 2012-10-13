@@ -6,15 +6,17 @@
 <script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+
 <script>
 $(document).ready(function(){
   
-  var s1 = [<%= @data[1].to_json %>];
   // Can specify a custom tick Array.
   // Ticks should match up one for each y value (category) in the series.
-  var ticks = [<%= @data[0].to_json %>];
-  var plot3 = $.jqplot('chart3', [s1], {
-  	seriesDefaults:{
+  var ticks = [<% @data.to_json %>];
+  var plot3 = $.jqplot('chart3', [<%= @data2.to_json %>], {
+  	title :'Program Usage Times',
+    grid:{background: '#ffffff'},
+    seriesDefaults:{
         renderer: $.jqplot.BarRenderer,
         rendererOptions: {fillToZero: true, varyBarColor :true}
     },
@@ -23,12 +25,12 @@ $(document).ready(function(){
       xaxis: {
         renderer: $.jqplot.CategoryAxisRenderer,
         ticks: ticks,
-    		angle:30,
     		label: "Program Used"
       },
       yaxis: {
+        min: 0,
         pad: 1.05,
-        tickOptions: {formatString: '$%d'},
+        tickOptions: {formatString: '%d'},
     		label: "Time used"
       }
     },

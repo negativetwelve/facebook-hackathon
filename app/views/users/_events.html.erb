@@ -1,105 +1,33 @@
-<div id="chart1" style="height:400px;width:640px; "></div>
-<div id="chart2" style="height:400px;width:640px; "></div>
-<div id="chart3" style="height:400px;width:640px; "></div>
+<table class="table table-hover">
 
-<% @data = [3, 1, 3, 2, 3, 1, 3, 2] %>
+    <!-- Table header -->
 
-<script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
-<script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
-<script>
-$(document).ready(function(){
-  var plot1 = $.jqplot ('chart1', [<%= @data.to_json %>], {
-      // Give the plot a title.
-      title: 'Words Typed',
-      markerOptions: {style:'diamond'},
-      renderer: $.jqplot.LineRenderer,
-      rendererOption:{ highlightMouseOver :true},
-      axesDefaults: {
-        labelRenderer: $.jqplot.CanvasAxisLabelRenderer
-      },
-      
-      axes: {
-       
-        xaxis: {
-          label: "Time",
-          
-	  min: 0,
-	  max: 60,
-	  tickInterval: 5,
-          pad: 0
-        },
-        yaxis: {
-          label: "Number of Words"
-        }
-      }
-    }); 
- 
-    
-  var arr = [[110, 200, 5, "Acura"], [450, 90, 5, "Alfa Romeo"], 
-    [240, 500, 5, "AM General"], [500, 230, 5, "Aston Martin Lagonda"], 
-    [180, 170, 5, "Audi"], [70, 80, 5, "BMW"], [200, 130, 5, "Bugatti"]];
-  
-  var plot2 = $.jqplot('chart2',[arr],{
-        
-	title: 'Mouse Clicks',
-        axesDefaults: {
-            labelRenderer: $.jqplot.CanvasAxisLabelRenderer
-        },
+        <thead>
+            <tr>
+                <th>Personal Statistics</th>
+            </tr>
+        </thead>
+     
+    <!-- Table footer -->
+        <tfoot>
+            <tr> </tr>
 
-	seriesDefaults:{
-            renderer: $.jqplot.BubbleRenderer,
-            rendererOptions: {
-                bubbleAlpha: 0.6,
-                highlightAlpha: 0.8,
-		autoscaleBubbles :false
-            },
-            shadow: true,
-            shadowAlpha: 0.05
-        },
-	axes:{
-	    yaxis:{min:0, max:800, tickInterval: 80, label: "Y-position"},
-	    xaxis:{min:0, max:1280, tickInterval:128, label: "X-position"}
-	}
-  });
- 
-
-  var s1 = [200, 600, 700, 1000];
-  // Can specify a custom tick Array.
-  // Ticks should match up one for each y value (category) in the series.
-  var ticks = ['May', 'June', 'July', 'August'];
-     
-  var plot3 = $.jqplot('chart3', [s1], {
-        title: 'Programs Running',
-        
-	seriesDefaults:{
-            renderer:$.jqplot.BarRenderer,
-            rendererOptions: {fillToZero: true, varyBarColor :true}
-        },
-        axes: {
-            // Use a category axis on the x axis and use our custom ticks.
-            xaxis: {
-                renderer: $.jqplot.CategoryAxisRenderer,
-                ticks: ticks,
-		angle:30,
-		label: "Program Used"
-            },
-            
-            yaxis: {
-                pad: 1.05,
-                tickOptions: {formatString: '$%d'},
-		label: "Time used"
-            }
-        },
-	seriesColors: ["#051ce2", "#efe932"]
-    });
- 
- 
-  
-      
+        </tfoot>
     
-});
-</script>
+    <!-- Table body -->
+     
+        <tbody>
+            <tr>
+                  <td>Most Used Word</td>
+                  <td>"hi"</td>
+            </tr>
+            <tr>
+                  <td>Most Used Program</td>
+                  <td>TextMate</td>
+            </tr>
+            <tr>
+              <td>Most Used Character</td>
+              <td>"COMMAND-TAB"</td>
+
+        </tbody>
+</table>

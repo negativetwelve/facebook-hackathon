@@ -34,16 +34,15 @@ class Event < ActiveRecord::Base
   def time_track(events)
     apps = []
     time = []
-    data = [apps, time]
     events.each do |e|
-      if data[0].include?(e.window)
-        data[1][data[0].index(e.window)] += e.duration
+      if apps.include?(e.window.to_s)
+        time[apps.index(e.window.to_s)] += e.duration.to_i
       else
-        data[0].append(e.window)
-        data[1].append(e.duration)
+        apps.append(e.window.to_s)
+        time.append(e.duration.to_i)
       end
     end
-    return data
+    return apps, time.map{|x| x/60}
   end
-  
+
 end

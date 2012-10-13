@@ -22,7 +22,7 @@ class UsersController < ApplicationController
     if @user.save
       sign_in @user
       flash[:success] = "Welcome!"
-      redirect_to root_path
+      redirect_to '/1'
     else
       render 'new'
     end

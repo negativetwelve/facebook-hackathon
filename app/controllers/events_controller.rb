@@ -7,7 +7,7 @@ class EventsController < ApplicationController
     elsif params[:event_id] == "2"
       @data = @e.click_position(Event.where(event_type: "Mouse"))
     elsif params[:event_id] == "3"
-      @data = @e.time_track(Event.where(event_type: "Screen"))
+      @data, @data2 = @e.time_track(Event.where(event_type: "Screen"))
     end
   end
   
