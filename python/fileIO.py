@@ -2,11 +2,11 @@ from time import sleep
 from functools import reduce
 import sqlite3
 
-EMPTY_INDEX = 'index n/a'
-EMPTY_KEY_CODE = 'code n/a'
-EMPTY_CHAR = 'char n/a'
-EMPTY_TIME = 'time n/a'
-EMPTY_DATE = 'date n/a'
+EMPTY_INDEX = '<index n/a>'
+EMPTY_KEY_CODE = '<code n/a>'
+EMPTY_CHAR = '<char n/a>'
+EMPTY_TIME = '<time n/a>'
+EMPTY_DATE = '<date n/a>'
 
 reset_codes = {36: "\n", 48: "<TAB>", 51: "<BACK>"}
 
