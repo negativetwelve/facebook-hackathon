@@ -1,0 +1,65 @@
+2012-10-12 18:48:06.649 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="=" unmodchars="=" repeat=0 keyCode=14
+2012-10-12 18:48:06.649 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:06.785 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:06.993 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+2012-10-12 18:48:07.084 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+2012-10-12 18:48:07.142 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="n" unmodchars="n" repeat=0 keyCode=45
+2012-10-12 18:48:07.241 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:07.361 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202981.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+2012-10-12 18:48:07.441 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202982.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+2012-10-12 18:48:07.546 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202982.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+2012-10-12 18:48:07.969 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202982.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+2012-10-12 18:48:08.554 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+2012-10-12 18:48:08.689 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+2012-10-12 18:48:08.849 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:08.993 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+2012-10-12 18:48:09.145 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:09.233 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+2012-10-12 18:48:09.337 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+2012-10-12 18:48:09.425 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202983.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:09.561 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+2012-10-12 18:48:09.617 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+2012-10-12 18:48:09.705 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+2012-10-12 18:48:09.801 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="p" unmodchars="p" repeat=0 keyCode=35
+2012-10-12 18:48:09.937 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="u" unmodchars="u" repeat=0 keyCode=32
+2012-10-12 18:48:10.025 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:10.177 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202984.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:11.545 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:11.673 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:11.737 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+2012-10-12 18:48:11.809 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:11.929 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:12.065 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+2012-10-12 18:48:12.145 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+2012-10-12 18:48:12.217 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202986.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+2012-10-12 18:48:12.521 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+2012-10-12 18:48:12.673 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+2012-10-12 18:48:12.793 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:12.841 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:12.873 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+2012-10-12 18:48:12.937 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+2012-10-12 18:48:13.024 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:13.145 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:13.249 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+2012-10-12 18:48:13.329 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202987.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:13.905 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202988.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:14.113 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202988.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="u" unmodchars="u" repeat=0 keyCode=32
+2012-10-12 18:48:14.201 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202988.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+2012-10-12 18:48:14.305 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202988.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:14.449 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:15.041 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+2012-10-12 18:48:15.129 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+2012-10-12 18:48:15.217 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:15.297 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="n" unmodchars="n" repeat=0 keyCode=45
+2012-10-12 18:48:15.360 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202989.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:15.600 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+2012-10-12 18:48:15.649 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:15.792 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+2012-10-12 18:48:15.968 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+2012-10-12 18:48:16.120 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+2012-10-12 18:48:16.216 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="p" unmodchars="p" repeat=0 keyCode=35
+2012-10-12 18:48:16.352 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202990.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+2012-10-12 18:48:16.497 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202991.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="." unmodchars="." repeat=0 keyCode=47
+2012-10-12 18:48:17.225 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202991.7 flags=0x100108 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+2012-10-12 18:48:17.808 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202992.3 flags=0x100108 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+2012-10-12 18:48:18.656 Python[60259:1307] NSEvent: type=KeyDown loc=(334,436) time=202993.2 flags=0x100508 win=0x0 winNum=0 ctxt=0x0 chars="   " unmodchars="  " repeat=0 keyCode=48
