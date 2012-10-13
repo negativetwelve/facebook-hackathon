@@ -1,5 +1,3 @@
-from time import sleep
-from functools import reduce
 import sqlite3
 from datetime import datetime
 
@@ -25,6 +23,7 @@ empty_things = [EMPTY_INDEX, EMPTY_KEY_CODE, EMPTY_CHAR,
 
 reset_codes = {36: "\n", 48: "<TAB>", 51: "<BACK>"}
 
+
 class Position:
     def __init__(self, x, y):
         self.x = x
@@ -33,15 +32,17 @@ class Position:
     def __repr__(self):
         return "Position({0}, {1})".format(self.x, self.y)
 
+
 class Event:
-    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW):
+    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE,
+                    index=EMPTY_INDEX, window=EMPTY_WINDOW):
         self.time = time
         self.date = date
         self.datetime = EMPTY_DATETIME
         self.index = index
         self.window = window
         self.key = self.date
-        
+
     def set_datetime(self):
         if self.time != EMPTY_TIME and self.date != EMPTY_DATE:
             time = []
@@ -70,8 +71,9 @@ class Event:
         self.time = words[1]
         self.set_datetime()
 
+
 class Screen(Event):
-    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, 
+    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX,
                     window=EMPTY_WINDOW, name=EMPTY_NAME,
                     duration=EMPTY_DURATION):
         Event.__init__(self, time, date, index)
@@ -96,12 +98,14 @@ class Screen(Event):
                 self.window = item.replace("_", " ")
 
         self.set_key()
+
     def set_key(self):
         if self.window not in empty_things:
             self.key = self.window
 
     def __repr__(self):
         return "Screen({0}, {1})".format(self.window, self.name)
+
 
 class Mouse(Event):
     def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX,
@@ -136,10 +140,12 @@ class Mouse(Event):
     def __repr__(self):
         return "Mouse({0})".format(self.position)
 
+
 class Key(Event):
 
-    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW,
-                            char=EMPTY_CHAR, code=EMPTY_KEY_CODE, mod=EMPTY_MOD):
+    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX,
+                    window=EMPTY_WINDOW, char=EMPTY_CHAR,
+                    code=EMPTY_KEY_CODE, mod=EMPTY_MOD):
         Event.__init__(self, time, date, index, window)
         self.char = char
         self.code = code
@@ -180,8 +186,9 @@ class Key(Event):
             self.key = self.char
 
     def reset(self):
-        """Resets the char attribute if it is a whitespace character to something
-        more readily printed and resets char if there is a mod"""
+        """Resets the char attribute if it is a whitespace
+        character to something more readily printed and resets
+        char if there is a mod"""
         if self.code in reset_codes:
             self.char = reset_codes[self.code]
         if self.mod != EMPTY_MOD:
@@ -189,17 +196,19 @@ class Key(Event):
         self.set_key()
 
     def __repr__(self):
-        #return "CharTime(char={0}, code={1}, date={2}, time={3})".format(self.char, self.code, self.date, self.time)
+        #return "CharTime(char={0}, code={1}, date={2},
+        # time={3})".format(self.char, self.code, self.date, self.time)
         return "Key({0})".format(self.char)
 
     def __str__(self):
         return self.char
 
+
 class Word(Key):
     def __init__(self, other=None):
         if other:
-            Key.__init__(self, other.time, other.date, other.index, other.window, other.char, 
-                            other.code, other.mod)
+            Key.__init__(self, other.time, other.date, other.index,
+                    other.window, other.char, other.code, other.mod)
         else:
             Key.__init__(self)
 
@@ -209,16 +218,18 @@ class Word(Key):
     def __repr__(self):
         return "Word({0})".format(self.char)
 
+
 def make_keycode_dict():
-    assert False; "I'm making this error because it shouldn't work right now"
+    assert False, "I'm making this error because it shouldn't work right now"
     keycodes = {}
     f = open('./raw_data/one_of_key.txt', 'r')
     content = f.read()
 
-    chars, dict = make_char_list_dict(content)
+    chars, dict = make_charlist_dict(content)
     for key, value in dict.items():
         keycodes[key] = value.code
     return keycodes
+
 
 def make_charlist_dict(content):
     def add_to_dicts(dict, obj, time_dict):
@@ -248,13 +259,15 @@ def make_charlist_dict(content):
             obj.set_info(line)
             add_to_dicts(master_dict[SCREEN], obj, master_dict[TIME])
             if current_screen.datetime != EMPTY_DATETIME:
-                current_screen.duration = (obj.datetime - current_screen.datetime).total_seconds()
+                current_screen.duration = (obj.datetime -
+                            current_screen.datetime).total_seconds()
             current_screen = obj
         elif event_type == MOUSE:
             obj = Mouse()
             obj.set_info(line, current_screen)
             add_to_dicts(master_dict[MOUSE], obj, master_dict[TIME])
     return chars, master_dict
+
 
 def make_timeword_dictionaries(chars_list):
     def add_to_dictionaries(word):
@@ -265,12 +278,12 @@ def make_timeword_dictionaries(chars_list):
             word_dict['by times'][word.time] = []
         word_dict['by times'][word.time].append(word)
     output = []
-    word_dict = {'by words' : {}, 'by times': {}}
+    word_dict = {'by words': {}, 'by times': {}}
     current_word = []
     length = len(chars_list)
     for i, char in enumerate(chars_list):
         if char.code in reset_codes:
-            if len(output) > 0 and char.code == 51: #backspace
+            if len(output) > 0 and char.code == 51:  # backspace
                 output.pop(len(output) - 1)
             else:
                 output.append(char.char)
@@ -279,14 +292,16 @@ def make_timeword_dictionaries(chars_list):
 
             if len(current_word) > 0:
                 word = Word(current_word[len(current_word) - 1])
-                word.reset_char("".join([x.char for x in current_word]).strip())
+                word.reset_char("".join([x.char for x in
+                                    current_word]).strip())
                 add_to_dictionaries(word)
                 current_word = []
         else:
-            if char.code == 49 or i == length - 1: #space
+            if char.code == 49 or i == length - 1:  # space
                 current_word.append(char)
                 word = Word(char)
-                word.reset_char("".join([x.char for x in current_word]).strip())
+                word.reset_char("".join([x.char for x
+                                    in current_word]).strip())
                 add_to_dictionaries(word)
                 current_word = []
             else:
@@ -296,40 +311,42 @@ def make_timeword_dictionaries(chars_list):
     # print(time_dict)
     return output_str, word_dict
 
+
 def parse():
-    f = open('./raw_data/output.txt', 'r') #second character for different reading / writing modes
+    f = open('./raw_data/output.txt', 'r')
     content = f.read()
 
     #keycodes = make_keycode_dict()
     #print(keycodes)
 
     chars, master_dict = make_charlist_dict(content)
-    #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, word_dicts = make_timeword_dictionaries(chars)
-    #print([[obj.duration for obj in lst] for key, lst in master_dict[SCREEN].items()])
     return output_str, master_dict, word_dicts
 
-    
 if __name__ == '__main__':
     random_datetime = '2012-01-01'
     conn = sqlite3.connect('../db/development.sqlite3')
     c = conn.cursor()
     start_index = 0
     try:
-        c.execute('''CREATE TABLE events (start_index real, word text, date text, time text, datetime1 text, datetime2 text, event_type text, window text)''')
+        c.execute('''CREATE TABLE events (start_index real, word text,
+                date text, time text, datetime1 text, datetime2 text,
+                event_type text, window text, duration real)''')
     except Exception:
         c.execute('SELECT * FROM events')
         start_index = len(c.fetchall())
 
     output_str, master_dict, word_dicts = parse()
-    insertions = []
+    insertion = []
     for event, values in master_dict.items():
         for key, lists in values.items():
             for item in lists:
+                duration = 0
                 if event == KEY:
                     word = item.char
                 elif event == SCREEN:
                     word = item.window
+                    duration = item.duration
                 elif event == MOUSE:
                     word = str(item.position.x) + ',' + str(item.position.y)
                 elif event == TIME:
@@ -348,8 +365,10 @@ if __name__ == '__main__':
                 if window.find('<no window>') >= 0:
                     window = window.replace('<no window>', 'possibly terminal')
 
-                insertions.append((start_index, str(word), item.date, item.time, random_datetime, random_datetime, event, window))
+                insertion.append((start_index, str(word), item.date, item.time,
+                    random_datetime, random_datetime, event, window, duration))
                 start_index += 1
+    duration = 0
     for event, values in word_dicts.items():
         if event == 'by_times':
             continue
@@ -358,9 +377,10 @@ if __name__ == '__main__':
                 window = word.window
                 if not isinstance(window, str):
                     window = window.window
-                insertions.append((start_index, str(word), word.date, word.time, random_datetime, random_datetime, "WORD", window))
+                insertion.append((start_index, str(word), word.date, word.time,
+                        random_datetime, random_datetime, "WORD", window, duration))
                 start_index += 1
 
-    c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?, ?)', insertions)
+    c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)', insertion)
     conn.commit()
     conn.close()
