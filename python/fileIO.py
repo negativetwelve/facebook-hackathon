@@ -295,7 +295,7 @@ if __name__ == '__main__':
     c = conn.cursor()
     start_index = 0
     try:
-        c.execute('''CREATE TABLE events (start_index real, event_type text, word text, window text, date text, time text, datetime1 text, datetime2 text)''')
+        c.execute('''CREATE TABLE events (start_index real, word text, date text, time text, datetime1 text, datetime2 text, event_type text, window text)''')
     except Exception:
         c.execute('SELECT * FROM events')
         start_index = len(c.fetchall())
@@ -327,7 +327,7 @@ if __name__ == '__main__':
                 if window.find('<no window>') >= 0:
                     window = window.replace('<no window>', 'possibly terminal')
 
-                insertions.append((start_index, event, str(word), window, item.date, item.time, random_datetime, random_datetime))
+                insertions.append((start_index, str(word), item.date, item.time, random_datetime, random_datetime, event, window))
                 start_index += 1
     for event, values in word_dicts.items():
         if event == 'by_times':
@@ -337,7 +337,7 @@ if __name__ == '__main__':
                 window = word.window
                 if not isinstance(window, str):
                     window = window.window
-                insertions.append((start_index, "WORD", str(word), window, word.date, word.time, random_datetime, random_datetime))
+                insertions.append((start_index, str(word), word.date, word.time, random_datetime, random_datetime, "WORD", window))
                 start_index += 1
 
     c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?, ?)', insertions)
