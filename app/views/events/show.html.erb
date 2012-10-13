@@ -1,0 +1,17 @@
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="chart-container">
+    <div class="chart">
+  <% if params[:event_id] == "1" %>
+  <%= render 'events/events1' %>
+<% end %>
+<% if params[:event_id] == "2" %>
+  <%= render 'events/events2' %>
+<% end %>
+<% if params[:event_id] == "3" %>
+  <%= render 'events/events3' %>
+<% end %>
+</div>
+</div>
+</div>
+</div>

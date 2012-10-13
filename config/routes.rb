@@ -9,6 +9,8 @@ Hack::Application.routes.draw do
   resources :relationships, only: [:create, :destroy]
       
   root to: 'static_pages#home'
+  
+  match '/:event_id', to: 'events#show'
 
   match '/signup',  to: 'users#new'
   match '/signin',  to: 'sessions#new'

@@ -1,10 +1,4 @@
-<% @events.each do |event| %>
-  <%= event.word %><br>
-  <%= event.date %><br>
-  <%= event.time %><br>
-<% end %>
-
-<div id="chart1" style="height:400px;width:640px; "></div>
+<div id="chart1" style="height:600px;width:800px;"></div>
 
 <script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
@@ -12,6 +6,7 @@
 <script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
 <script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+
 <script>
 $(document).ready(function(){
   var plot1 = $.jqplot ('chart1', [[3,7,9,1,4,6,8,2,5]], {
@@ -23,12 +18,9 @@ $(document).ready(function(){
       axesDefaults: {
         labelRenderer: $.jqplot.CanvasAxisLabelRenderer
       },
-      
       axes: {
-       
         xaxis: {
-          label: "Time",
-          
+          label: "Time",  
 	  min: 0,
 	  max: 60,
 	  tickInterval: 5,
@@ -38,10 +30,42 @@ $(document).ready(function(){
           label: "Number of Words"
         }
       }
-    }); 
- 
-    
-     
-    
+    });     
 });
 </script>
+
+<div class="bottom row-fluid">
+  <div class="tabbable tabs-below">
+    <div class="tab-content">
+      <div class="tab-pane" id="tab1">
+      </div>
+      <div class="tab-pane active" id="tab2">
+      </div>
+<div class = "tab-pane" id = "tab3">
+</div>
+<div class = "tab-pane" id = "tab4">
+</div>
+    </div>
+    <ul class="nav nav-tabs">
+      <li><a href="/">About Me</a></li>
+      <li class="active"><a href="/1">Clicks</a></li>
+<li><a href="/2">Words</a></li>
+<li><a href="/3">Programs</a></li>
+    </ul>
+    <div class="user">
+      <div class="btn-group dropup">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <i class="icon-user"></i><b class="caret"></b>
+        </a>
+        <ul class="dropdown-menu pull-right">
+          <li><%= link_to "Profile", current_user %></li>
+          <li><%= link_to "Settings", edit_user_path(current_user) %></li>
+          <li class="divider"></li>
+          <li>
+            <%= link_to "Sign out", signout_path, method: "delete" %>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
