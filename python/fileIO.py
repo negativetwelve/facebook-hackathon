@@ -1,5 +1,6 @@
 from time import sleep
 from functools import reduce
+import sqlite3
 
 EMPTY_INDEX = 'index n/a'
 EMPTY_KEY_CODE = 'code n/a'
@@ -67,12 +68,12 @@ class WordTime(CharTime):
         self.date = char.date
         self.time = char.time
         self.index = char.index
-        
+
 def make_keycode_dict():
     keycodes = {}
     f = open('./raw_data/one_of_key.txt', 'r')
     content = f.read()
-    
+
     chars, dict = make_char_list_dict(content)
     for key, value in dict.items():
         keycodes[key] = value.code
@@ -81,13 +82,13 @@ def make_keycode_dict():
 def parse():
     time_dict = {}
     word_dict = {}
-    
+
     f = open('./raw_data/output.txt', 'r') #second character for different reading / writing modes
     content = f.read()
-    
+
     #keycodes = make_keycode_dict()
     #print(keycodes)
-    
+
     chars, chars_dict = make_char_list_dict(content)
     #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, time_dict, word_dict = make_timeword_dictionaries(chars)
@@ -104,7 +105,7 @@ def make_char_list_dict(content):
             chars_dict[char_object.char] = []
         chars_dict[char_object.char].append(char_object)
     return chars, chars_dict
-        
+
 def make_timeword_dictionaries(chars_list):
     def add_to_dictionaries(word, value):
         if word not in word_dict:
@@ -123,7 +124,7 @@ def make_timeword_dictionaries(chars_list):
             word = WordTime()
             word.set_fields(char)
             add_to_dictionaries(char.char, word)
-            
+
             word.set_fields(char, "".join(current_word).strip())
             add_to_dictionaries(word.char, word)
             current_word = []
@@ -138,10 +139,8 @@ def make_timeword_dictionaries(chars_list):
                 current_word.append(char.char)
             output.append(char.char)
     output_str = "".join(output)
-    print(time_dict)
+    # print(time_dict)
     return output_str, time_dict, word_dict
 
-parse()
-
-
-    
+if __name__ == '__main__':
+    parse()
