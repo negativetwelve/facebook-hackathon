@@ -101,13 +101,19 @@ class SniffCocoa:
                         self.currentApp = app.localizedName()
                         options = kCGWindowListOptionOnScreenOnly 
                         windowList = CGWindowListCopyWindowInfo(options, kCGNullWindowID)
-
+                        
                         for window in windowList:
                             if window['kCGWindowOwnerName'] == self.currentApp:
+                                if self.currentApp == 'Google Chrome':
+                                    window_name = windows['kCGWindowName']
+                                else:
+                                    if window['kCGWindowName'] == "":
+                                        window_name = "_"
+                                    else: window_name = window['kCGWindowName']
                                 geom = window['kCGWindowBounds'] 
                                 self.screen_hook( event=event,
-                                                name = window['kCGWindowName'],
-                                                owner = window['kCGWindowOwnerName'],
+                                                name = window_name.replace(" ", "_"),
+                                                owner = window['kCGWindowOwnerName'].replace(" ", "_"),
                                                 x = geom['X'], 
                                                 y = geom['Y'], 
                                                 w = geom['Width'], 
