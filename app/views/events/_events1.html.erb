@@ -1,0 +1,47 @@
+<% @events.each do |event| %>
+  <%= event.word %><br>
+  <%= event.date %><br>
+  <%= event.time %><br>
+<% end %>
+
+<div id="chart1" style="height:400px;width:640px; "></div>
+
+<script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+<script>
+$(document).ready(function(){
+  var plot1 = $.jqplot ('chart1', [[3,7,9,1,4,6,8,2,5]], {
+      // Give the plot a title.
+      title: 'Words Typed',
+      markerOptions: {style:'diamond'},
+      renderer: $.jqplot.LineRenderer,
+      rendererOption:{ highlightMouseOver :true},
+      axesDefaults: {
+        labelRenderer: $.jqplot.CanvasAxisLabelRenderer
+      },
+      
+      axes: {
+       
+        xaxis: {
+          label: "Time",
+          
+	  min: 0,
+	  max: 60,
+	  tickInterval: 5,
+          pad: 0
+        },
+        yaxis: {
+          label: "Number of Words"
+        }
+      }
+    }); 
+ 
+    
+     
+    
+});
+</script>

@@ -1,0 +1,48 @@
+<% @events.each do |event| %>
+  <%= event.word %><br>
+  <%= event.date %><br>
+  <%= event.time %><br>
+<% end %>
+
+<div id="table1" style="height:400px;width:640px; "></div>
+
+<link href="/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet"> 
+<script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+<script>
+<table id="table1">
+
+    <!-- Table header -->
+
+        <thead>
+            <tr>
+                <th>Personal Statistics</th>
+            </tr>
+        </thead>
+     
+    <!-- Table footer -->
+        <tfoot>
+            <tr> </tr>
+
+        </tfoot>
+    
+    <!-- Table body -->
+     
+        <tbody>
+            <tr>
+                  <td>Most Used Word</td>
+                  <td>TROLL</td>
+            </tr>
+            <tr>
+                  <td>Most Used Program</td>
+                  <td>FaceBook</td>
+            </tr>
+
+        </tbody>
+</table>
+   
+</script>
