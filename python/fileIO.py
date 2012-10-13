@@ -46,7 +46,7 @@ class Event:
 
     def __repr__(self):
         return "Event({0}, {1})".format(self.date, self.time)
-        
+
     def set_info(self, str, window=EMPTY_WINDOW):
         self.window = window
         words = str.split()
@@ -56,8 +56,7 @@ class Event:
         self.time = words[1]
 
 class Screen(Event):
-    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW,
-                        name=EMPTY_NAME):
+    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW, name=EMPTY_NAME):
         Event.__init__(self, time, date, index)
         self.name = name
         self.window = window
@@ -91,7 +90,7 @@ class Mouse(Event):
                         position=EMPTY_POSITION, window=EMPTY_WINDOW):
         Event.__init__(self, time, date, index, window)
         self.position = position
-    
+
     def set_info(self, str, window):
         Event.set_info(self, str, window)
         words = str.split()
@@ -161,7 +160,6 @@ class Key(Event):
     def set_key(self):
         if self.char not in empty_things:
             self.key = self.char
-
 
     def reset(self):
         """Resets the char attribute if it is a whitespace character to something
@@ -297,7 +295,7 @@ if __name__ == '__main__':
     c = conn.cursor()
     start_index = 0
     try:
-        c.execute('''CREATE TABLE events (start_index real, event_type text, word text, date text, time text, datetime1 text, datetime2 text)''')
+        c.execute('''CREATE TABLE events (start_index real, event_type text, word text, window text, date text, time text, datetime1 text, datetime2 text)''')
     except Exception:
         c.execute('SELECT * FROM events')
         start_index = len(c.fetchall())
@@ -317,19 +315,23 @@ if __name__ == '__main__':
                     word = key
                 else:
                     print 'poop'
-                    word = 'poop'
-                insertions.append((start_index, event, str(word), item.date, item.time, random_datetime, random_datetime))
+                    word, window = 'poop', 'poop'
+                window = item.window
+                if not isinstance(window, str):
+                    window = window.window
+                insertions.append((start_index, event, str(word), window, item.date, item.time, random_datetime, random_datetime))
                 start_index += 1
     for event, values in word_dicts.items():
         if event == 'by_times':
             continue
         for key, words in values.items():
             for word in words:
-                insertions.append((start_index, "WORD", str(word), word.date, word.time, random_datetime, random_datetime))
+                window = word.window
+                if not isinstance(window, str):
+                    window = window.window
+                insertions.append((start_index, "WORD", str(word), window, word.date, word.time, random_datetime, random_datetime))
                 start_index += 1
 
-    c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?)', insertions)
+    c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?, ?, ?)', insertions)
     conn.commit()
     conn.close()
-
-parse()
