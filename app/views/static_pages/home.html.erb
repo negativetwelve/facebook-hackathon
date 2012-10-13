@@ -9,12 +9,14 @@
       </section>
     </aside>
     <div class="span8">
-      
+      <section>
+        <%= render 'users/events' %>
+      </section>
     </div>
   </div>
 <% else %>
   <div class="center hero-unit">
-    <h1>HACK</h1>
+    <h1>LifeLogger</h1>
     
     <%= link_to "Sign up now!", signup_path, 
                                 class: "btn btn-large btn-primary" %>
