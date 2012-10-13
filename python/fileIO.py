@@ -92,7 +92,7 @@ def parse():
     output_str, time_dict, word_dict = make_timeword_dictionaries(chars)
     return output_str, time_dict, word_dict
 
-def make_char_list_dict(content):  
+def make_char_list_dict(content):
     chars = []
     chars_dict = {}
     lines = content.split('\n')
@@ -144,7 +144,14 @@ def make_timeword_dictionaries(chars_list):
     return output_str, time_dict, word_dict
 
 if __name__ == '__main__':
+    conn = sqlite3.connect('testing.db')
+    c = conn.cursor()
+    c.execute('''CREATE TABLE info (word text, time text, date text)''')
     output_str, time_dict, word_dict = parse()
-    # print word_dict.items()
-    for key, value in word_dict.items():
-        print value
+    insertions = []
+    for word, chartimes in word_dict.items():
+        for chartime in chartimes:
+            insertions.append((word, chartime.time, chartime.date))
+    c.executemany('INSERT INTO info VALUES (?, ?, ?)', insertions)
+    conn.commit()
+    conn.close()
