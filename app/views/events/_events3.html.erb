@@ -5,44 +5,35 @@
 <script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
 <script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
-<script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+<script type="text/javascript" src="../../assets/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
 <script>
 $(document).ready(function(){
   
-  var s1 = [200, 600, 700, 1000];
-  // Can specify a custom tick Array.
-  // Ticks should match up one for each y value (category) in the series.
-  var ticks = ['May', 'June', 'July', 'August'];
-     
-  var plot3 = $.jqplot('chart3', [s1], {
-        
-        
-	seriesDefaults:{
-            renderer:$.jqplot.BarRenderer,
-            rendererOptions: {fillToZero: true, varyBarColor :true}
-        },
-        axes: {
-            // Use a category axis on the x axis and use our custom ticks.
-            xaxis: {
-                renderer: $.jqplot.CategoryAxisRenderer,
-                ticks: ticks,
-		angle:30,
-		label: "Program Used"
-            },
-            
-            yaxis: {
-                pad: 1.05,
-                tickOptions: {formatString: '$%d'},
-		label: "Time used"
-            }
-        },
-	seriesColors: ["#051ce2", "#efe932"]
-    });
- 
- 
-  
-      
-    
+  var s1 = [<%= @data[1].to_json %>];
+  // Can specify a custom tick Array.
+  // Ticks should match up one for each y value (category) in the series.
+  var ticks = [<%= @data[0].to_json %>];
+  var plot3 = $.jqplot('chart3', [s1], {
+  	seriesDefaults:{
+        renderer: $.jqplot.BarRenderer,
+        rendererOptions: {fillToZero: true, varyBarColor :true}
+    },
+    axes: {
+      // Use a category axis on the x axis and use our custom ticks.
+      xaxis: {
+        renderer: $.jqplot.CategoryAxisRenderer,
+        ticks: ticks,
+    		angle:30,
+    		label: "Program Used"
+      },
+      yaxis: {
+        pad: 1.05,
+        tickOptions: {formatString: '$%d'},
+    		label: "Time used"
+      }
+    },
+    seriesColors: ["#051ce2", "#efe932"]
+  });   
 });
 </script>
 
