@@ -7,6 +7,9 @@ EMPTY_TIME = 'time n/a'
 EMPTY_DATE = 'date n/a'
 
 class CharTime:    
+    
+    reset_codes = {36: "\n", 48: "\t"}
+
     def __init__(self, index=EMPTY_INDEX):
         self.char = EMPTY_CHAR
         self.code = EMPTY_KEY_CODE
@@ -42,6 +45,11 @@ class CharTime:
                 self.char = info
             elif field == "keyCode":
                 self.code = int(info)
+                self.reset()
+                
+    def reset(self):
+        if self.code in CharTime.reset_codes:
+            self.char = CharTime.reset_codes[self.code]
         
     def __repr__(self):
         return "CharTime(char={0}, code={1}, date={2}, time={3})".format(self.char, self.code, self.date, self.time)
@@ -58,21 +66,24 @@ def make_keycode_dict():
     f = open('./raw_data/one_of_key.txt', 'r')
     content = f.read()
     
-    chars, keycodes = make_char_list_dict(content)
+    chars, dict = make_char_list_dict(content)
+    for key, value in dict.items():
+        keycodes[key] = value.code
     return keycodes
 
 def parse():
     time_dict = {}
     word_dict = {}
     
-    f = open('./raw_data/sample_output.txt', 'r') #second character for different reading / writing modes
+    f = open('./raw_data/output.txt', 'r') #second character for different reading / writing modes
     content = f.read()
     
-    keycodes = make_keycode_dict()
-    print(keycodes)
+    #keycodes = make_keycode_dict()
+    #print(keycodes)
     
-    #chars, chars_dict = make_char_list_dict(content)
-    #print(chars)   
+    chars, chars_dict = make_char_list_dict(content)
+    print(chars)
+    print(make_timeword_dictionaries(chars))
 
 def make_char_list_dict(content):  
     chars = []
@@ -85,7 +96,15 @@ def make_char_list_dict(content):
         chars_dict[char_object.char] = char_object
     return chars, chars_dict
         
-#def make_timeword_dictionaries(chars):
+def make_timeword_dictionaries(chars_list):
+    output = []
+    word_dict = {}
+    for char in chars_list:
+        if len(output) > 0 and char.code == 51:
+            output.pop(len(output) - 1)
+        else:
+            output.append(char.char)
+    print("".join(output))
 
 parse()
 
