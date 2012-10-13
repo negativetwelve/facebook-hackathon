@@ -1,6 +1,7 @@
 from time import sleep
 from functools import reduce
 import sqlite3
+from datetime import datetime
 
 KEY = "Key"
 SCREEN = "Screen"
@@ -9,6 +10,8 @@ TIME = 'time'
 
 EMPTY_INDEX = '<no index>'
 EMPTY_KEY_CODE = '<no code>'
+EMPTY_DURATION = '<no duration>'
+EMPTY_DATETIME = '<no datetime>'
 EMPTY_CHAR = '<no char>'
 EMPTY_TIME = '<no time>'
 EMPTY_DATE = '<no date>'
@@ -34,9 +37,20 @@ class Event:
     def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW):
         self.time = time
         self.date = date
+        self.datetime = EMPTY_DATETIME
         self.index = index
         self.window = window
         self.key = self.date
+        
+    def set_datetime(self):
+        if self.time != EMPTY_TIME and self.date != EMPTY_DATE:
+            time = []
+            date = []
+            time = self.time.split(":")
+            date = self.date.split("-")
+            time = [int(x) for x in time]
+            date = [int(x) for x in date]
+            self.datetime = datetime(*(date + time))
 
     def set_key(self, thing=None):
         if (not thing) and (thing not in empty_things):
@@ -54,12 +68,16 @@ class Event:
         # set date and time
         self.date = words[0]
         self.time = words[1]
+        self.set_datetime()
 
 class Screen(Event):
-    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, window=EMPTY_WINDOW, name=EMPTY_NAME):
+    def __init__(self, time=EMPTY_TIME, date=EMPTY_DATE, index=EMPTY_INDEX, 
+                    window=EMPTY_WINDOW, name=EMPTY_NAME,
+                    duration=EMPTY_DURATION):
         Event.__init__(self, time, date, index)
         self.name = name
         self.window = window
+        self.duration = duration
 
     def set_info(self, str):
         Event.set_info(self, str)
@@ -229,6 +247,8 @@ def make_charlist_dict(content):
             obj = Screen()
             obj.set_info(line)
             add_to_dicts(master_dict[SCREEN], obj, master_dict[TIME])
+            if current_screen.datetime != EMPTY_DATETIME:
+                current_screen.duration = (obj.datetime - current_screen.datetime).total_seconds()
             current_screen = obj
         elif event_type == MOUSE:
             obj = Mouse()
@@ -286,9 +306,10 @@ def parse():
     chars, master_dict = make_charlist_dict(content)
     #print(reduce(lambda x, y: x + y, [len(chars_dict[key]) for key in chars_dict]))
     output_str, word_dicts = make_timeword_dictionaries(chars)
-    # print(output_str)
+    #print([[obj.duration for obj in lst] for key, lst in master_dict[SCREEN].items()])
     return output_str, master_dict, word_dicts
 
+    
 if __name__ == '__main__':
     random_datetime = '2012-01-01'
     conn = sqlite3.connect('../db/development.sqlite3')
