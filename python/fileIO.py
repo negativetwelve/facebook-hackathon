@@ -144,20 +144,20 @@ def make_timeword_dictionaries(chars_list):
     return output_str, time_dict, word_dict
 
 if __name__ == '__main__':
-    conn = sqlite3.connect('../db/development.db')
+    conn = sqlite3.connect('../db/development.sqlite3')
     c = conn.cursor()
     start_index = 0
     try:
-        c.execute('''CREATE TABLE info (word text, time text, date text, start_index real)''')
+        c.execute('''CREATE TABLE events (start_index real, word text, time text, date text, random1 text, random2 text)''')
     except Exception:
-        c.execute('SELECT * FROM info')
+        c.execute('SELECT * FROM events')
         start_index = len(c.fetchall())
     output_str, time_dict, word_dict = parse()
     insertions = []
     for word, chartimes in word_dict.items():
         for chartime in chartimes:
-            insertions.append((word, chartime.time, chartime.date, start_index))
+            insertions.append((start_index, word, chartime.time, chartime.date, "2012-01-01", "2012-01-02"))
             start_index += 1
-    c.executemany('INSERT INTO info VALUES (?, ?, ?, ?)', insertions)
+    c.executemany('INSERT INTO events VALUES (?, ?, ?, ?, ?, ?)', insertions)
     conn.commit()
     conn.close()
