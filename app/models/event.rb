@@ -19,6 +19,17 @@ class Event < ActiveRecord::Base
   end
   
   def click_position(events)
-  
+    @data = []
+    (0..9).each do |i|
+      (0..9).each do |j|
+        @data[i*10+j] = [i*128, j*80, 0]
+      end
+    end
+    events.each do |e|
+      pos = e.word.split(",")
+      @data[pos[0].to_i/128*10 + pos[1].to_i/80][2] += 1
+    end
+    return @data
+  end
   
 end

@@ -310,7 +310,7 @@ if __name__ == '__main__':
                 elif event == SCREEN:
                     word = item.window
                 elif event == MOUSE:
-                    word = str((item.position.x, item.position.y))
+                    word = str(item.position.x) + ',' + str(item.position.y)
                 elif event == TIME:
                     word = key
                 else:

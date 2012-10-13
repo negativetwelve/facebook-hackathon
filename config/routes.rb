@@ -10,7 +10,6 @@ Hack::Application.routes.draw do
       
   root to: 'static_pages#home'
   
-  match '/:event_id', to: 'events#show'
 
   match '/signup',  to: 'users#new'
   match '/signin',  to: 'sessions#new'
@@ -19,6 +18,9 @@ Hack::Application.routes.draw do
   match '/help',    to: 'static_pages#help'
   match '/about',   to: 'static_pages#about'
   match '/contact', to: 'static_pages#contact'
+  
+  
+  match '/:event_id', to: 'events#show'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

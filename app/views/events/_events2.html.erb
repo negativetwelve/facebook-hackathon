@@ -8,11 +8,7 @@
 <script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
 <script>
 $(document).ready(function(){
-  var arr = [[110, 200, 5, "Acura"], [450, 90, 5, "Alfa Romeo"], 
-    [240, 500, 5, "AM General"], [500, 230, 5, "Aston Martin Lagonda"], 
-    [180, 170, 5, "Audi"], [70, 80, 5, "BMW"], [200, 130, 5, "Bugatti"]];
-  
-  var plot2 = $.jqplot('chart2',[arr],{
+  var plot2 = $.jqplot('chart2',[<%= @data.to_json %>],{
         
 	title: 'Mouse Clicks',
         axesDefaults: {
@@ -23,7 +19,7 @@ $(document).ready(function(){
             rendererOptions: {
                 bubbleAlpha: 0.6,
                 highlightAlpha: 0.8,
-		autoscaleBubbles :false
+		autoscaleBubbles :true
             },
             shadow: true,
             shadowAlpha: 0.05
