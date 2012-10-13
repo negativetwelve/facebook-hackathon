@@ -1,24 +1,106 @@
 <% if signed_in? %>
-  <div class="row-fluid">
-    <aside class="span4">
-      <section>
-        <%= render 'shared/user_info' %>
-      </section>
-      <section>
-        <%= render 'shared/stats' %>
-      </section>
-    </aside>
-    <div class="span8">
-      <section>
-        <%= render 'users/events' %>
-      </section>
+  <div class="container-fluid">
+    <%= render 'users/events' %>
+  </div>
+  <div class="bottom row-fluid">
+    <div class="tabbable tabs-below">
+      <div class="tab-content">
+        <div class="tab-pane active" id="tab1">
+        </div>
+        <div class="tab-pane" id="tab2">
+        </div>
+      </div>
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#tab1" data-toggle="tab">About Me</a></li>
+        <li><a href="#tab2" data-toggle="tab">Words</a></li>
+      </ul>
+      <div class="user">
+        <div class="btn-group dropup">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="icon-user"></i><b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu pull-right">
+            <li><%= link_to "Profile", current_user %></li>
+            <li><%= link_to "Settings", edit_user_path(current_user) %></li>
+            <li class="divider"></li>
+            <li>
+              <%= link_to "Sign out", signout_path, method: "delete" %>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 <% else %>
-  <div class="center hero-unit">
-    <h1>LifeLogger</h1>
+  <div class="home-page">
+    <div class="text-home">
+    <h1 class="lifelogger">LifeLogger</h1><br>
+    <h3>Once logged in, you can start learning more about how you navigate around your computer, either by searching for information above or clicking on the tabs below. Begin exploring!</h3><br>
+    
+    <%= link_to "Sign up!", signup_path, class: "btn btn-large btn-primary" %>
+    <%= link_to "Sign in!", signin_path, class: "btn btn-large btn-primary" %>
+    
+    </div>
+  </div>
+<% end %>
+
+<!--
+<div class="container-fluid">
+
+<% if signed_in? %>
+  <div class="row-fluid">
+    <div class="span12">
+      <div class="span1">
+        
+      </div>
+      <div class="span10">
+        <center><h1>LifeLogger</h1></center>
+      </div>
+      <div class="span1">
+
+      </div>    
+    </div>
+  </div>
+</div>
+<% else %>
+<div class="container-fluid home-page">
+    <h1>LifeLogger</h1><br>
+    <h3>Once logged in, you can start learning more about how you navigate around your computer, either by searching for information above or clicking on the tabs below. Begin exploring!</h3><br>
     
     <%= link_to "Sign up now!", signup_path, 
                                 class: "btn btn-large btn-primary" %>
-  </div>
+</div>
 <% end %>
+
+<% if signed_in? %>
+<div class="bottom row-fluid">
+  <div class="tabbable tabs-below">
+    <div class="tab-content">
+      <div class="tab-pane active" id="tab1">
+      </div>
+      <div class="tab-pane" id="tab2">
+      </div>
+    </div>
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#tab1" data-toggle="tab">About Me</a></li>
+      <li><a href="#tab2" data-toggle="tab">Words</a></li>
+    </ul>
+    <div class="user">
+      <div class="btn-group dropup">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <i class="icon-user"></i><b class="caret"></b>
+        </a>
+        <ul class="dropdown-menu pull-right">
+          <li><%= link_to "Profile", current_user %></li>
+          <li><%= link_to "Settings", edit_user_path(current_user) %></li>
+          <li class="divider"></li>
+          <li>
+            <%= link_to "Sign out", signout_path, method: "delete" %>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<% end %>
+-->
