@@ -259,8 +259,8 @@ def make_charlist_dict(content):
             obj.set_info(line)
             add_to_dicts(master_dict[SCREEN], obj, master_dict[TIME])
             if current_screen.datetime != EMPTY_DATETIME:
-                current_screen.duration = (obj.datetime -
-                            current_screen.datetime).total_seconds()
+                current_screen.duration = int((obj.datetime -
+                            current_screen.datetime).total_seconds())
             current_screen = obj
         elif event_type == MOUSE:
             obj = Mouse()
