@@ -213,7 +213,7 @@ def make_charlist_dict(content):
             time_dict[obj.time] = []
         time_dict[obj.time].append(obj)
     chars = []
-    dict = {KEY: {}, SCREEN: {}, MOUSE: {}, TIME: {}}
+    master_dict = {KEY: {}, SCREEN: {}, MOUSE: {}, TIME: {}}
     current_screen = Screen()
     lines = content.split('\n')
     for line in lines:
@@ -225,18 +225,18 @@ def make_charlist_dict(content):
         if event_type == KEY:
             obj = Key()
             obj.set_info(line, current_screen)
-            add_to_dicts(word_dict[KEY], obj, word_dict[TIME])
+            add_to_dicts(master_dict[KEY], obj, master_dict[TIME])
             chars.append(obj)
         elif event_type == SCREEN:
             obj = Screen()
             obj.set_info(line)
-            add_to_dicts(word_dict[SCREEN], obj, word_dict[TIME])
+            add_to_dicts(master_dict[SCREEN], obj, master_dict[TIME])
             current_window = obj
         elif event_type == MOUSE:
             obj = Mouse()
             obj.set_info(line, current_screen)
-            add_to_dicts(word_dict[MOUSE], obj, word_dict[TIME])
-    return chars, word_dict
+            add_to_dicts(master_dict[MOUSE], obj, master_dict[TIME])
+    return chars, master_dict
 
 def make_timeword_dictionaries(chars_list):
     def add_to_dictionaries(word):
