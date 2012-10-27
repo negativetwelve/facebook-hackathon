@@ -62,3 +62,8 @@
   width: 50%;
   
 }
+
+.logo-top {
+  position: absolute;
+  right: 120px;
+}

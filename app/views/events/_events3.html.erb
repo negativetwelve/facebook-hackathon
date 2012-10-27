@@ -1,18 +1,13 @@
 <div id="chart3" style="height:600px;width:800px; "></div>
 
-<script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+<center><%= @data.to_json %></center>
 
 <script>
 $(document).ready(function(){
   
   // Can specify a custom tick Array.
   // Ticks should match up one for each y value (category) in the series.
-  var ticks = [<% @data.to_json %>];
+  
   var plot3 = $.jqplot('chart3', [<%= @data2.to_json %>], {
   	title :'Program Usage Times',
     grid:{background: '#ffffff'},
@@ -24,7 +19,7 @@ $(document).ready(function(){
       // Use a category axis on the x axis and use our custom ticks.
       xaxis: {
         renderer: $.jqplot.CategoryAxisRenderer,
-        ticks: ticks,
+        ticks: [<% @data.to_json %>],
     		label: "Program Used"
       },
       yaxis: {

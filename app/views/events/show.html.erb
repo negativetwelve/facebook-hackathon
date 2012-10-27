@@ -1,6 +1,9 @@
 <div class="container-fluid">
   <div class="row-fluid">
     <div class="chart-container">
+      <div class="offset8">
+      </div>
+      <%= image_tag "logo.png", size: "227x104", class: "logo-top" %>
       <div class="chart">
         <% if params[:event_id] == "1" %>
           <%= render 'events/events1' %>

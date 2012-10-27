@@ -1,11 +1,6 @@
 <div id="chart2" style="height:600px;width:800px; "></div>
 
-<script type="text/javascript" src="../../assets/javascripts/jqplot.pieRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.bubbleRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasTextRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.canvasAxisLabelRenderer.min.js"></script>
-<script type="text/javascript" src="../../assets/javascripts/jqplot.barRenderer.min.js"></script>
-<script type="text/javascript" src="../../plugins/javascripts/jqplot.categoryAxisRenderer.min.js"></script>
+
 <script>
 $(document).ready(function(){
   var plot2 = $.jqplot('chart2',[<%= @data.to_json %>],{

@@ -14,4 +14,10 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require jqplot
+//= require jqplot.categoryAxisRenderer.min.js
+//= require jqplot.pieRenderer.min.js
+//= require jqplot.bubbleRenderer.min.js
+//= require jqplot.canvasTextRenderer.min.js
+//= require jqplot.canvasAxisLabelRenderer.min.js
+//= require jqplot.barRenderer.min.js
 //= require_tree .
